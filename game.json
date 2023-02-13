@@ -528,16 +528,7 @@
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayerAuthentication::DisplayAuthenticationBanner"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -2228,7 +2219,12 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        }
+      ]
     },
     {
       "b": 209,
@@ -2451,7 +2447,12 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        }
+      ]
     },
     {
       "b": 209,
@@ -2674,7 +2675,12 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        }
+      ]
     },
     {
       "b": 209,
@@ -2857,7 +2863,12 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        }
+      ]
     }
   ],
   "externalEvents": [],
