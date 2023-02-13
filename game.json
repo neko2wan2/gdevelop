@@ -552,6 +552,7 @@
                 "",
                 ""
               ]
+<<<<<<< Updated upstream
             }
           ],
           "actions": [
@@ -697,15 +698,114 @@
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
+=======
+>>>>>>> Stashed changes
             }
           ],
           "actions": [
             {
               "type": {
+<<<<<<< Updated upstream
                 "value": "Quit"
               },
               "parameters": [
                 ""
+=======
+                "value": "Tween::AddObjectScaleTween"
+              },
+              "parameters": [
+                "Start_btn",
+                "Tween",
+                "\"hover\"",
+                "1.5",
+                "1.5",
+                "\"linear\"",
+                "1",
+                "",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectAngleTween"
+              },
+              "parameters": [
+                "Start_btn",
+                "Tween",
+                "\"hover\"",
+                "315",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"map\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Start_btn",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::AddObjectScaleTween"
+              },
+              "parameters": [
+                "Start_btn",
+                "Tween",
+                "\"hover\"",
+                "1",
+                "1",
+                "\"linear\"",
+                "1",
+                "",
+                "yes"
+>>>>>>> Stashed changes
               ]
             }
           ]
@@ -737,10 +837,13 @@
       ],
       "behaviorsSharedData": [
         {
+<<<<<<< Updated upstream
           "name": "Health",
           "type": "Health::Health"
         },
         {
+=======
+>>>>>>> Stashed changes
           "name": "Tween",
           "type": "Tween::TweenBehavior"
         }
