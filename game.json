@@ -211,34 +211,7 @@
   },
   "objects": [],
   "objectsGroups": [],
-  "variables": [
-    {
-      "name": "ans",
-      "type": "array",
-      "children": [
-        {
-          "folded": true,
-          "type": "number",
-          "value": 1
-        },
-        {
-          "folded": true,
-          "type": "number",
-          "value": 2
-        },
-        {
-          "folded": true,
-          "type": "number",
-          "value": 3
-        },
-        {
-          "folded": true,
-          "type": "number",
-          "value": 4
-        }
-      ]
-    }
-  ],
+  "variables": [],
   "layouts": [
     {
       "b": 209,
@@ -534,7 +507,34 @@
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "ans",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "number",
+              "value": 1
+            },
+            {
+              "folded": true,
+              "type": "number",
+              "value": 2
+            },
+            {
+              "folded": true,
+              "type": "number",
+              "value": 3
+            },
+            {
+              "folded": true,
+              "type": "number",
+              "value": 4
+            }
+          ]
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -873,13 +873,19 @@
           "conditions": [
             {
               "type": {
-                "value": "VarGlobal"
+                "value": "VarScene"
               },
               "parameters": [
                 "ans[0]",
                 "=",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -905,10 +911,16 @@
                 "value": "VarGlobal"
               },
               "parameters": [
-                "ans[0]",
+                "answer[0]",
                 "=",
                 "2"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -938,6 +950,12 @@
                 "=",
                 "3"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -967,6 +985,12 @@
                 "=",
                 "4"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -996,6 +1020,12 @@
                 "=",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1025,6 +1055,12 @@
                 "=",
                 "2"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1054,6 +1090,12 @@
                 "=",
                 "3"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1083,6 +1125,12 @@
                 "=",
                 "4"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1112,6 +1160,12 @@
                 "=",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1141,6 +1195,12 @@
                 "=",
                 "2"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1170,6 +1230,18 @@
                 "=",
                 "3"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1199,6 +1271,12 @@
                 "=",
                 "4"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1228,6 +1306,12 @@
                 "=",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1257,6 +1341,18 @@
                 "=",
                 "2"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1286,6 +1382,12 @@
                 "=",
                 "3"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1315,6 +1417,12 @@
                 "=",
                 "4"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
