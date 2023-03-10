@@ -142,230 +142,101 @@
         "name": "homebtn_blue.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
-  "objects": [
-    {
-      "assetStoreId": "",
-      "name": "enemy",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Health",
-          "type": "Health::Health",
-          "Health": 100,
-          "CurrentHealth": 0,
-          "MaxHealth": 100,
-          "DamageCooldown": 0,
-          "IsHealthJustDamaged": false,
-          "HealthRegenRate": 0,
-          "HealthRegenDelay": 0,
-          "AllowOverHealing": false,
-          "HitAtLeastOnce": false,
-          "IsJustHealed": false,
-          "CurrentShieldPoints": 0,
-          "MaxShieldPoints": 0,
-          "ShieldDuration": 5,
-          "ShieldRegenRate": 0,
-          "BlockExcessDamage": false,
-          "ShieldRegenDelay": 0,
-          "IsShieldJustDamaged": false,
-          "ChanceToDodge": 0,
-          "DamageToBeApplied": 0,
-          "FlatDamageReduction": 0,
-          "PercentDamageReduction": 0,
-          "IsJustDodged": false,
-          "ShieldDamageTaken": 0,
-          "HealToBeApplied": 0
-        }
-      ],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "NewSprite-1-3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 75,
-                    "y": 75
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "enemy_life",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "NewSprite-1-4.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 12.5
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "panel",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "NewSprite-1-2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 450,
-                    "y": 150
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "answer_btn",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "NewSprite-1-5.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 50,
-                    "y": 25
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "objects": [],
   "objectsGroups": [],
   "variables": [
     {
-      "folded": true,
-      "name": "stage2",
-      "type": "boolean",
-      "value": false
-    },
-    {
-      "folded": true,
-      "name": "stage3",
-      "type": "boolean",
-      "value": false
-    },
-    {
-      "folded": true,
-      "name": "stage4",
-      "type": "boolean",
-      "value": false
-    },
-    {
-      "folded": true,
-      "name": "stage5",
-      "type": "boolean",
-      "value": false
+      "name": "ans",
+      "type": "array",
+      "children": [
+        {
+          "folded": true,
+          "type": "number",
+          "value": 1
+        },
+        {
+          "folded": true,
+          "type": "number",
+          "value": 2
+        },
+        {
+          "folded": true,
+          "type": "number",
+          "value": 3
+        },
+        {
+          "folded": true,
+          "type": "number",
+          "value": 4
+        }
+      ]
     }
   ],
   "layouts": [
@@ -543,122 +414,24 @@
                 "",
                 ""
               ]
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
-                "value": "Tween::AddObjectScaleTween"
+                "value": "MouseButtonReleased"
               },
               "parameters": [
-                "Start_btn",
-                "Tween",
-                "\"hover\"",
-                "1.5",
-                "1.5",
-                "\"linear\"",
-                "1",
                 "",
-                "yes"
+                "Left"
               ]
             },
             {
               "type": {
-                "value": "Tween::AddObjectAngleTween"
+                "value": "BuiltinCommonInstructions::Once"
               },
-              "parameters": [
-                "Start_btn",
-                "Tween",
-                "\"hover\"",
-                "315",
-                "\"linear\"",
-                "1",
-                ""
-              ]
+              "parameters": []
             }
           ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PushScene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"map\""
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Start_btn",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Start_btn",
-                "Tween",
-                "\"hover\"",
-                "1",
-                "1",
-                "\"linear\"",
-                "1",
-                "",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::AddObjectAngleTween"
-              },
-              "parameters": [
-                "Start_btn",
-                "Tween",
-                "\"hover\"",
-                "0",
-                "\"linear\"",
-                "1",
-                ""
-              ]
-            }
-          ]
+          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -740,8 +513,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "map",
-      "name": "map",
+      "mangledName": "game",
+      "name": "game",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -768,11 +541,11 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "destination1",
-          "persistentUuid": "7c88d5fc-8794-423c-8508-c16cf0d1b4da",
+          "name": "answer_panel",
+          "persistentUuid": "d12d4167-f2b9-4dd3-a56c-eb5a0e02ca21",
           "width": 0,
-          "x": 119,
-          "y": 599,
+          "x": 640,
+          "y": 584,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -783,72 +556,12 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "destination2",
-          "persistentUuid": "5eadf139-8c60-4e6a-8113-dc454d5523d4",
+          "name": "btn",
+          "persistentUuid": "cc993c00-e3de-4497-b39f-2e77f7dde7d6",
           "width": 0,
-          "x": 280,
-          "y": 306,
+          "x": 595,
+          "y": 251,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "destination3",
-          "persistentUuid": "69c01e81-8169-478f-b708-04013809f598",
-          "width": 0,
-          "x": 606,
-          "y": 141,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "destination4",
-          "persistentUuid": "7ccc226b-3685-4918-b1c8-f46a3a411ec3",
-          "width": 0,
-          "x": 918,
-          "y": 304,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "destination5",
-          "persistentUuid": "fb72aee1-7307-4420-ba49-100316a79b0a",
-          "width": 0,
-          "x": 1107,
-          "y": 564,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "menu_btn",
-          "persistentUuid": "364f3cdd-5d43-4abe-8c0f-f482876d4fae",
-          "width": 0,
-          "x": 641,
-          "y": 597,
-          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -857,7 +570,7 @@
       "objects": [
         {
           "assetStoreId": "",
-          "name": "destination1",
+          "name": "ans1",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -866,371 +579,253 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "area1",
+              "name": "NewSprite",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "area1-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "area1-1-Copy",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1 - Copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "destination2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "area1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "area1-1-Copy",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1 - Copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "destination3",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "area1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "area1-1-Copy",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1 - Copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "destination4",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "area1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "area1-1-Copy",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1 - Copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "destination5",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "area1",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "area1-1-Copy",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "area1-1 - Copy.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 100,
-                        "y": 100
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "menu_btn",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "homebtn_blue.png",
+                      "image": "NewSprite",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
                         "x": 50,
-                        "y": 50
+                        "y": 25
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 50,
+                        "y": 25
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 50,
+                        "y": 25
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 50,
+                        "y": 25
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "answer_panel",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite6",
+                      "points": [
+                        {
+                          "name": "Point1",
+                          "x": 75,
+                          "y": 50
+                        },
+                        {
+                          "name": "Point2",
+                          "x": 75,
+                          "y": 150
+                        },
+                        {
+                          "name": "Point3",
+                          "x": 225,
+                          "y": 50
+                        },
+                        {
+                          "name": "Point4",
+                          "x": 225,
+                          "y": 150
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 150,
+                        "y": 100
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "btn",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -1253,10 +848,9 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
+                "value": "DepartScene"
               },
               "parameters": [
-                "stage2",
                 ""
               ]
             }
@@ -1264,14 +858,43 @@
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "ArrayTools::Shuffle"
               },
               "parameters": [
-                "destination2",
+                "",
+                "\"ans\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[0]",
                 "=",
                 "1"
               ]
             }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans1",
+                "answer_panel.PointX(\"Point1\")",
+                "answer_panel.PointY(\"Point1\")",
+                ""
+              ]
+            }
           ]
         },
         {
@@ -1279,25 +902,115 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "stage3",
-                ""
+                "ans[0]",
+                "=",
+                "2"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "Create"
               },
               "parameters": [
-                "destination3",
+                "",
+                "ans2",
+                "answer_panel.PointX(\"Point1\")",
+                "answer_panel.PointY(\"Point1\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[0]",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans3",
+                "answer_panel.PointX(\"Point1\")",
+                "answer_panel.PointY(\"Point1\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[0]",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans4",
+                "answer_panel.PointX(\"Point1\")",
+                "answer_panel.PointY(\"Point1\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[1]",
                 "=",
                 "1"
               ]
             }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans1",
+                "answer_panel.PointX(\"Point2\")",
+                "answer_panel.PointY(\"Point2\")",
+                ""
+              ]
+            }
           ]
         },
         {
@@ -1305,25 +1018,115 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "stage4",
-                ""
+                "ans[1]",
+                "=",
+                "2"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "Create"
               },
               "parameters": [
-                "destination4",
+                "",
+                "ans2",
+                "answer_panel.PointX(\"Point2\")",
+                "answer_panel.PointY(\"Point2\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[1]",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans3",
+                "answer_panel.PointX(\"Point2\")",
+                "answer_panel.PointY(\"Point2\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[1]",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans4",
+                "answer_panel.PointX(\"Point2\")",
+                "answer_panel.PointY(\"Point2\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[2]",
                 "=",
                 "1"
               ]
             }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans1",
+                "answer_panel.PointX(\"Point3\")",
+                "answer_panel.PointY(\"Point3\")",
+                ""
+              ]
+            }
           ]
         },
         {
@@ -1331,49 +1134,113 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "stage5",
-                ""
+                "ans[2]",
+                "=",
+                "2"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "Create"
               },
               "parameters": [
-                "destination5",
+                "",
+                "ans2",
+                "answer_panel.PointX(\"Point3\")",
+                "answer_panel.PointY(\"Point3\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[2]",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans3",
+                "answer_panel.PointX(\"Point3\")",
+                "answer_panel.PointY(\"Point3\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[2]",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "ans4",
+                "answer_panel.PointX(\"Point3\")",
+                "answer_panel.PointY(\"Point3\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "ans[3]",
                 "=",
                 "1"
               ]
             }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage2",
-                "True"
-              ]
-            }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "Create"
               },
               "parameters": [
-                "destination2",
-                "=",
-                "0"
+                "",
+                "ans1",
+                "answer_panel.PointX(\"Point4\")",
+                "answer_panel.PointY(\"Point4\")",
+                ""
               ]
             }
           ]
@@ -1383,23 +1250,26 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "stage3",
-                "True"
+                "ans[3]",
+                "=",
+                "2"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "Create"
               },
               "parameters": [
-                "destination3",
-                "=",
-                "0"
+                "",
+                "ans2",
+                "answer_panel.PointX(\"Point4\")",
+                "answer_panel.PointY(\"Point4\")",
+                ""
               ]
             }
           ]
@@ -1409,23 +1279,26 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "stage4",
-                "True"
+                "ans[3]",
+                "=",
+                "3"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "Create"
               },
               "parameters": [
-                "destination4",
-                "=",
-                "0"
+                "",
+                "ans3",
+                "answer_panel.PointX(\"Point4\")",
+                "answer_panel.PointY(\"Point4\")",
+                ""
               ]
             }
           ]
@@ -1435,23 +1308,26 @@
           "conditions": [
             {
               "type": {
-                "value": "GlobalVariableAsBoolean"
+                "value": "VarGlobal"
               },
               "parameters": [
-                "stage5",
-                "True"
+                "ans[3]",
+                "=",
+                "4"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
+                "value": "Create"
               },
               "parameters": [
-                "destination5",
-                "=",
-                "0"
+                "",
+                "ans4",
+                "answer_panel.PointX(\"Point4\")",
+                "answer_panel.PointY(\"Point4\")",
+                ""
               ]
             }
           ]
@@ -1464,7 +1340,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "destination1",
+                "btn",
                 "",
                 "",
                 ""
@@ -1493,475 +1369,7 @@
               },
               "parameters": [
                 "",
-                "\"level1\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "destination2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage2",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"level2\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "destination3",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage3",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"level3\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "destination4",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage4",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"level4\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "destination5",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "GlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage5",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"level5\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "menu_btn",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PopScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ]
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 0,
-          "ambientLightColorG": 150995054,
-          "ambientLightColorR": 1869182049,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "level1",
-      "name": "level1",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "panel",
-          "persistentUuid": "b82e5adc-0f3c-4f20-beef-95e8346fb8d0",
-          "width": 0,
-          "x": 624,
-          "y": 571,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "4d34a4c7-4d3f-4259-8853-52f0259ad600",
-          "width": 0,
-          "x": 644,
-          "y": 219,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy_life",
-          "persistentUuid": "53d529d7-1027-40e5-afbb-e642509ea4e8",
-          "width": 0,
-          "x": 497,
-          "y": 53,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "answer_btn",
-          "persistentUuid": "b72e679c-bf01-42cb-80ff-69f367831dbe",
-          "width": 0,
-          "x": 637,
-          "y": 606,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeWidth"
-              },
-              "parameters": [
-                "enemy_life",
-                "=",
-                "enemy.Health::Health()*300/enemy.Health::MaxHealth()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "answer_btn",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::Hit"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                "25",
-                "",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PopScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage2",
-                "True"
+                "\"game\""
               ]
             }
           ]
@@ -1991,888 +1399,1348 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": [
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "level2",
-      "name": "level2",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "68a11dbc-005b-4a44-9345-a7339ebad05c",
-          "width": 0,
-          "x": 621,
-          "y": 160,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "panel",
-          "persistentUuid": "a12219e6-6fb3-4f1c-ac9a-74551e903e3d",
-          "width": 0,
-          "x": 643,
-          "y": 563,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "answer_btn",
-          "persistentUuid": "c641eaa5-aef5-4482-b181-08171fbe1a56",
-          "width": 0,
-          "x": 650,
-          "y": 579,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy_life",
-          "persistentUuid": "92920c76-7e2d-492a-a1e9-3e2aa2804fbe",
-          "width": 0,
-          "x": 393,
-          "y": 33,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeWidth"
-              },
-              "parameters": [
-                "enemy_life",
-                "=",
-                "enemy.Health::Health()*300/enemy.Health::MaxHealth()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "answer_btn",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::Hit"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                "25",
-                "",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PopScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage3",
-                "True"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 16777215,
-          "ambientLightColorG": 0,
-          "ambientLightColorR": 0,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "level3",
-      "name": "level3",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "43843be7-bf7d-46da-acf7-f7d803bd0c04",
-          "width": 0,
-          "x": 614,
-          "y": 208,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy_life",
-          "persistentUuid": "c5c0e4a6-46a9-49c0-b6b8-9b0b4d6b5302",
-          "width": 0,
-          "x": 396,
-          "y": 56,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "panel",
-          "persistentUuid": "eb8943d8-bce6-4332-b2ff-002fe073ae6b",
-          "width": 0,
-          "x": 612,
-          "y": 565,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "answer_btn",
-          "persistentUuid": "b8299f56-75fd-4c76-8503-d4c44ac730de",
-          "width": 0,
-          "x": 585,
-          "y": 574,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "answer_btn",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::Hit"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                "25",
-                "",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeWidth"
-              },
-              "parameters": [
-                "enemy_life",
-                "=",
-                "enemy.Health::Health()*300/enemy.Health::MaxHealth()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PopScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage4",
-                "True"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 16777215,
-          "ambientLightColorG": 0,
-          "ambientLightColorR": 0,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "level4",
-      "name": "level4",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "097ecdb4-8845-46ef-8a0a-fe6786853667",
-          "width": 0,
-          "x": 597,
-          "y": 219,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy_life",
-          "persistentUuid": "f9ad8642-09d7-4e29-88d0-42d73fa1ea5e",
-          "width": 0,
-          "x": 387,
-          "y": 65,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "panel",
-          "persistentUuid": "d17034fb-c108-49b7-8491-b617fb9dad6a",
-          "width": 0,
-          "x": 610,
-          "y": 568,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "answer_btn",
-          "persistentUuid": "271a9c2d-d558-4bb7-98a2-37f75be7c6af",
-          "width": 0,
-          "x": 597,
-          "y": 605,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "answer_btn",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::Hit"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                "25",
-                "",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeWidth"
-              },
-              "parameters": [
-                "enemy_life",
-                "=",
-                "enemy.Health::Health()*300/enemy.Health::MaxHealth()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Health::Health::IsDead"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PopScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "stage5",
-                "True"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 16777215,
-          "ambientLightColorG": 0,
-          "ambientLightColorR": 0,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "level5",
-      "name": "level5",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "da8e6a7c-6efa-4af6-bfde-7520f1bd79e2",
-          "width": 0,
-          "x": 614,
-          "y": 239,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "enemy_life",
-          "persistentUuid": "009f3484-ed1f-4a08-b328-51fa2957a521",
-          "width": 0,
-          "x": 427,
-          "y": 42,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "panel",
-          "persistentUuid": "5ff65561-211a-489f-aebb-6bd448f71a03",
-          "width": 0,
-          "x": 619,
-          "y": 574,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "answer_btn",
-          "persistentUuid": "210720f4-f799-4397-995b-e54aee547086",
-          "width": 0,
-          "x": 612,
-          "y": 568,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "answer_btn",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::Hit"
-              },
-              "parameters": [
-                "enemy",
-                "Health",
-                "25",
-                "",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeWidth"
-              },
-              "parameters": [
-                "enemy_life",
-                "=",
-                "enemy.Health::Health()*300/enemy.Health::MaxHealth()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 16777215,
-          "ambientLightColorG": 0,
-          "ambientLightColorR": 0,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Health",
-          "type": "Health::Health"
-        }
-      ]
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "Arthur Pacaud (arthuro555)",
+      "category": "General",
+      "extensionNamespace": "",
+      "fullName": "Array tools",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWNvZGUtYXJyYXkiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMyw1QTIsMiAwIDAsMSA1LDNIMTlBMiwyIDAgMCwxIDIxLDVWMTlBMiwyIDAgMCwxIDE5LDIxSDVDMy44OSwyMSAzLDIwLjEgMywxOVY1TTYsNlYxOEgxMFYxNkg4VjhIMTBWNkg2TTE2LDE2SDE0VjE4SDE4VjZIMTRWOEgxNlYxNloiIC8+PC9zdmc+",
+      "name": "ArrayTools",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/code-array.svg",
+      "shortDescription": "A collection of utilities and tools for working with arrays.",
+      "version": "1.0.0",
+      "description": [
+        "> Note: This extension is currently made in JavaScript instead of the event sheet as variables cannot be passed to events based functions yet. Due to this hack, the extension **only works on root scene variables**, not on child variables or non-scene variables.",
+        "",
+        "This extension adds features like:",
+        "- Combining arrays (concatenate into new array, append all children to another array)",
+        "- Finding a value in an array (find index expression, contains condition)",
+        "- Reversing arrays",
+        "- Get a portion of an array (slice)",
+        "- Add and remove lots of children at specific indices at once (fill, splice, shift, pop, add at index)",
+        "- Randomness (shuffle children, get a random child)",
+        "- Mathematical operations using arrays (sum of all numbers, biggest/smallest number, average number, median number)",
+        "- Sort numbers in an array",
+        "- String inter-operation (split string into array, join array array children to string)"
+      ],
+      "origin": {
+        "identifier": "ArrayTools",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "array",
+        "variable",
+        "index",
+        "tool",
+        "math",
+        "string",
+        "sort",
+        "find",
+        "slice",
+        "cut",
+        "random",
+        "copy",
+        "combine",
+        "concat",
+        "append",
+        "insert"
+      ],
+      "authorIds": [
+        "ZgrsWuRTAkXgeuPV9bo0zuEcA2w1"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [
+        {
+          "description": "The index of the first variable that equals to a specific number in an array.",
+          "fullName": "Index of number",
+          "functionType": "Expression",
+          "name": "IndexOf",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const num = eventsFunctionContext.getArgument(\"num\");",
+                "const arr = runtimeScene",
+                "    .getVariables()",
+                "    .get(eventsFunctionContext.getArgument(\"array\"))",
+                "    .getAllChildrenArray();",
+                "",
+                "// Technically findIndex would be more suitable but it may be a bit too recent and unsupported by some browsers",
+                "eventsFunctionContext.returnValue = arr.indexOf(arr.find(variable => variable.getAsNumber() === num));",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The name of the scene array variable",
+              "name": "array",
+              "type": "string"
+            },
+            {
+              "description": "The number to search in the array",
+              "name": "num",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "The index of the first variable that equals to a specific text in an array.",
+          "fullName": "Index of text",
+          "functionType": "Expression",
+          "name": "IndexOfStr",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const str = eventsFunctionContext.getArgument(\"str\");",
+                "const arr = runtimeScene",
+                "    .getVariables()",
+                "    .get(eventsFunctionContext.getArgument(\"array\"))",
+                "    .getAllChildrenArray();",
+                "",
+                "// Technically findIndex would be more suitable but it may be a bit too recent and unsupported by some browsers",
+                "eventsFunctionContext.returnValue = arr.indexOf(arr.find(variable => variable.getAsString() === str));",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The name of the scene array variable",
+              "name": "array",
+              "type": "string"
+            },
+            {
+              "description": "The string to search in the array",
+              "name": "str",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "The index of the last variable that equals to a specific number in an array.",
+          "fullName": "Last index of number",
+          "functionType": "Expression",
+          "name": "LastIndexOf",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const num = eventsFunctionContext.getArgument(\"num\");",
+                "const arr = runtimeScene",
+                "    .getVariables()",
+                "    .get(eventsFunctionContext.getArgument(\"array\"))",
+                "    .getAllChildrenArray();",
+                "",
+                "// Technically findIndex would be more suitable but it may be a bit too recent and unsupported by some browsers",
+                "eventsFunctionContext.returnValue = arr.indexOf(arr.slice().reverse().find(variable => variable.getAsNumber() === num));",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The name of the scene array variable",
+              "name": "array",
+              "type": "string"
+            },
+            {
+              "description": "The number to search in the array",
+              "name": "num",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "The index of the last variable that equals to a specific text in an array.",
+          "fullName": "Last index of text",
+          "functionType": "Expression",
+          "name": "LastIndexOfStr",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const str = eventsFunctionContext.getArgument(\"str\");",
+                "const arr = runtimeScene",
+                "    .getVariables()",
+                "    .get(eventsFunctionContext.getArgument(\"array\"))",
+                "    .getAllChildrenArray();",
+                "",
+                "// Technically findIndex would be more suitable but it may be a bit too recent and unsupported by some browsers",
+                "eventsFunctionContext.returnValue = arr.indexOf(arr.slice().reverse().find(variable => variable.getAsString() === str));",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The name of the scene array variable",
+              "name": "array",
+              "type": "string"
+            },
+            {
+              "description": "The string to search in the array",
+              "name": "str",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Returns a random number of an array of numbers.",
+          "fullName": "Random number of array",
+          "functionType": "Expression",
+          "name": "GetRandomNumber",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene",
+                "    .getVariables()",
+                "    .get(eventsFunctionContext.getArgument(\"arr\"))",
+                "    .getAllChildrenArray();",
+                "",
+                "eventsFunctionContext.returnValue = arr.length === 0 ? 0 :",
+                "    arr[Math.floor(Math.random() * arr.length)].getAsNumber();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The name of the scene array variable",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Returns a random string of an array of strings.",
+          "fullName": "Random string of array",
+          "functionType": "StringExpression",
+          "name": "GetRandomString",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene",
+                "    .getVariables()",
+                "    .get(eventsFunctionContext.getArgument(\"arr\"))",
+                "    .getAllChildrenArray();",
+                "",
+                "eventsFunctionContext.returnValue = arr.length === 0 ? \"\" :",
+                "    arr[Math.floor(Math.random() * arr.length)].getAsString();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The name of the scene array variable",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Removes the last array child of an array, and return it as a number.",
+          "fullName": "Pop number from array",
+          "functionType": "Expression",
+          "name": "PopNumber",
+          "sentence": "Remove last child of _PARAM1_ and store it in _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "",
+                "eventsFunctionContext.returnValue = arr.getAllChildrenArray().pop().getAsNumber();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The array to pop a child from",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Removes the last array child of an array, and return it as a string.",
+          "fullName": "Pop string from array",
+          "functionType": "StringExpression",
+          "name": "PopString",
+          "sentence": "Remove last child of _PARAM1_ and store it in _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "",
+                "eventsFunctionContext.returnValue = arr.getAllChildrenArray().pop().getAsString();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The array to pop a child from",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Removes the first array child of an array, and return it as a number.",
+          "fullName": "Shift number from array",
+          "functionType": "Expression",
+          "name": "ShiftNumber",
+          "sentence": "Remove last child of _PARAM1_ and store it in _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "",
+                "eventsFunctionContext.returnValue = arr.getAllChildrenArray().shift().getAsNumber();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The array to shift a child from",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Removes the first array child of an array, and return it as a string.",
+          "fullName": "Shift string from array",
+          "functionType": "StringExpression",
+          "name": "ShiftString",
+          "sentence": "Remove last child of _PARAM1_ and store it in _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "",
+                "eventsFunctionContext.returnValue = arr.getAllChildrenArray().shift().getAsString();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The array to shift a child from",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Checks if an array contains a specific number.",
+          "fullName": "Array has number",
+          "functionType": "Condition",
+          "name": "HasNumber",
+          "sentence": "Array _PARAM1_ has number _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Egal"
+                  },
+                  "parameters": [
+                    "ArrayTools::IndexOf(GetArgumentAsString(\"arr\"), GetArgumentAsNumber(\"val\"))",
+                    "!=",
+                    "-1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnBoolean"
+                  },
+                  "parameters": [
+                    "True"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to check from",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The number to search",
+              "name": "val",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Checks if an array contains a specific string.",
+          "fullName": "Array has string",
+          "functionType": "Condition",
+          "name": "HasString",
+          "sentence": "Array _PARAM1_ has string _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Egal"
+                  },
+                  "parameters": [
+                    "ArrayTools::IndexOfStr(GetArgumentAsString(\"arr\"), GetArgumentAsString(\"val\"))",
+                    "!=",
+                    "-1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnBoolean"
+                  },
+                  "parameters": [
+                    "True"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to check from",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The text to search",
+              "name": "val",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Copies a portion of a scene array variable into a new scene array variable.",
+          "fullName": "Slice an array",
+          "functionType": "Action",
+          "name": "Slice",
+          "sentence": "Slice array _PARAM1_ from indices _PARAM3_ to _PARAM4_ into _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "const target = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"target\"));",
+                "",
+                "// Ensure the target is a clean new array",
+                "target.castTo(\"array\");",
+                "target.clearChildren();",
+                "",
+                "// Slice the original array",
+                "const slice = arr",
+                "    .getAllChildrenArray()",
+                "    .slice(",
+                "        eventsFunctionContext.getArgument(\"begin\"),",
+                "        // The `|| undefined` replaces 0 with undefined, as having the argument as 0 ",
+                "        // would make the array empty and is therefore useless.",
+                "        // With undefined though, it doesn't stop until the end of the array,",
+                "        // which is purposeful.",
+                "        eventsFunctionContext.getArgument(\"end\") || undefined",
+                "    );",
+                "",
+                "// Copy each variable of the slice into the new array",
+                "for (const variable of slice)",
+                "    target.pushVariableCopy(variable);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to take a slice from",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The array to store the slice into",
+              "name": "target",
+              "type": "string"
+            },
+            {
+              "description": "The index to start the slice from",
+              "name": "begin",
+              "type": "expression"
+            },
+            {
+              "description": "The index to end the slice at",
+              "longDescription": "Set to 0 to copy all of the array. If you use a negative value, the index will be selected beginning from the end.  \nFor example, slicing an array with 5 elements from 0 to -1 would take only elements from indices 0 to 3.",
+              "name": "end",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Cuts a portion of an array off.",
+          "fullName": "Splice an array",
+          "functionType": "Action",
+          "name": "Splice",
+          "sentence": "Remove _PARAM3_ items from array _PARAM1_ starting from index _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "arr.getAllChildrenArray()",
+                "    .splice(",
+                "        eventsFunctionContext.getArgument(\"begin\"),",
+                "        // Replaces 0 with the legth of the array, as having the argument as 0 ",
+                "        // would not remove anything and is therefore useless.",
+                "        eventsFunctionContext.getArgument(\"count\") || arr.getAllChildrenArray().length",
+                "    );",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to remove items from",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The index to start removing from",
+              "longDescription": "If you use a negative value, the index will be selected beginning from the end.",
+              "name": "begin",
+              "type": "expression"
+            },
+            {
+              "description": "The amount of elements to remove",
+              "longDescription": "Set to 0 to remove until the end of the array.",
+              "name": "count",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Combines all elements of 2 scene arrays into one new scene array.",
+          "fullName": "Combine 2 arrays",
+          "functionType": "Action",
+          "name": "Concatenate",
+          "sentence": "Combine array _PARAM1_ and _PARAM2_ into _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "const arr2 = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr2\"));",
+                "const target = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"target\"));",
+                "",
+                "// Ensure the target is a clean new array",
+                "target.castTo(\"array\");",
+                "target.clearChildren();",
+                "",
+                "// Copy both arrays inside the new one",
+                "for (const variable of arr.getAllChildrenArray())",
+                "    target.pushVariableCopy(variable);",
+                "",
+                "for (const variable of arr2.getAllChildrenArray())",
+                "    target.pushVariableCopy(variable);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The first array",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The second array",
+              "name": "arr2",
+              "type": "string"
+            },
+            {
+              "description": "The variable to store the new array in",
+              "name": "target",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Appends a copy of all variables of one array to another array.",
+          "fullName": "Append all variable to another array",
+          "functionType": "Action",
+          "name": "AppendAll",
+          "sentence": "Append all elements from array _PARAM1_ into _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "const target = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"target\"));",
+                "",
+                "// Copy both arrays inside the new one",
+                "for (const variable of arr.getAllChildrenArray())",
+                "    target.pushVariableCopy(variable);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to get the variables from",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The variable to append the variables in",
+              "name": "target",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Reverses children of an array. The first array child becomes the last, and the last array child becomes the first.",
+          "fullName": "Reverse an array",
+          "functionType": "Action",
+          "name": "Reverse",
+          "sentence": "Reverse array _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "arr.getAllChildrenArray().reverse();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to reverse",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Fill an element with a number.",
+          "fullName": "Fill array with number",
+          "functionType": "Action",
+          "name": "Fill",
+          "sentence": "Fill array _PARAM1_ with _PARAM2_ from index _PARAM3_ to index _PARAM4_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "const a = arr.getAllChildrenArray();",
+                "const end = eventsFunctionContext.getArgument(\"end\") || a.length - 1;",
+                "",
+                "for (let i = eventsFunctionContext.getArgument(\"begin\"); i <= end; i++)",
+                "    a[i] = new gdjs.Variable({",
+                "        type: \"number\",",
+                "        value: eventsFunctionContext.getArgument(\"val\"),",
+                "    });",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to fill",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The number to fill",
+              "name": "val",
+              "type": "expression"
+            },
+            {
+              "description": "The index to start filling from",
+              "name": "begin",
+              "type": "expression"
+            },
+            {
+              "description": "The index to stop filling at",
+              "longDescription": "Set to 0 to fill until the end of the array.",
+              "name": "end",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Shuffles all children of an array.",
+          "fullName": "Shuffle array",
+          "functionType": "Action",
+          "name": "Shuffle",
+          "sentence": "Shuffle array _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "const a = arr.getAllChildrenArray();",
+                "a.sort(() => Math.random() - 0.5);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to shuffle",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Replaces all arrays inside of an array with their children. For example, [[1,2], [3,4]] becomes [1,2,3,4].",
+          "fullName": "Flatten array",
+          "functionType": "Action",
+          "name": "Flatten",
+          "sentence": "Flatten array _PARAM1_ (Deeply flatten: _PARAM2_)",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "const a = arr.getAllChildrenArray();",
+                "const deep = eventsFunctionContext.getArgument(\"deep\");",
+                "",
+                "for (let i = 0; i < a.length; i++)",
+                "    if (a[i].getType() === \"array\") {",
+                "        const b = a[i].getAllChildrenArray();",
+                "        // At the position of the array (i), remove 1 element (the array), ",
+                "        // and insert elements of b (the contents of the array) in-place of the array.",
+                "        a.splice(i, 1, ...b);",
+                "        // Skip over the elements that were just added as we are flattening only 1 level deep ",
+                "        if(!deep) i += b.length;",
+                "        // If deep, the current element has been replaced with another, we need to recheck it on next iteration.",
+                "        // If not deep, the current element is now the one after the array elements and needs to be checked too.",
+                "        // In both case, decreasing by 1 is necessary.",
+                "        i--;",
+                "    }",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to flatten",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "Deeply flatten",
+              "longDescription": "If yes, will continue flattening until there is no arrays in the array anymore.",
+              "name": "deep",
+              "type": "yesorno"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Removes the last array child of an array, and stores it in another variable.",
+          "fullName": "Pop array child",
+          "functionType": "Action",
+          "name": "Pop",
+          "sentence": "Remove last child of _PARAM1_ and store it in _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "const popvar = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"popvar\"));",
+                "",
+                "gdjs.Variable.copy(arr.getAllChildrenArray().pop(), popvar, false);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to pop a child from",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The variable to store the popped value into",
+              "name": "popvar",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Removes the first array child of an array, and stores it in another variable.",
+          "fullName": "Shift array child",
+          "functionType": "Action",
+          "name": "Shift",
+          "sentence": "Remove first child of _PARAM1_ and store it in _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "const shiftvar = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"shiftvar\"));",
+                "",
+                "gdjs.Variable.copy(arr.getAllChildrenArray().shift(), shiftvar, false);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to shift a child from",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The variable to store the shifted value into",
+              "name": "shiftvar",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Insert a variable at a specific index of an array.",
+          "fullName": "Insert variable at",
+          "functionType": "Action",
+          "name": "InsertAt",
+          "sentence": "Insert variable _PARAM3_ in _PARAM1_ at index _PARAM2_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));\r",
+                "// Cast to array to ensure getAllChildrenArray returns the real array\r",
+                "arr.castTo(\"array\");\r",
+                "const variable = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"variable\"));\r",
+                "\r",
+                "arr.getAllChildrenArray().splice(eventsFunctionContext.getArgument(\"index\"), 0, variable.clone());\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to insert a variable in",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "The index to insert the variable at",
+              "name": "index",
+              "type": "expression"
+            },
+            {
+              "description": "The name of the variable to insert",
+              "name": "variable",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Split a string into an array of strings via a separator.",
+          "fullName": "Split string into array",
+          "functionType": "Action",
+          "name": "SplitString",
+          "sentence": "Split string _PARAM1_ via separator _PARAM2_ into array _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));",
+                "const str = eventsFunctionContext.getArgument(\"str\");",
+                "const sep = eventsFunctionContext.getArgument(\"sep\");",
+                "",
+                "// Ensure the target is a clean new array",
+                "arr.castTo(\"array\");",
+                "arr.clearChildren();",
+                "",
+                "for (const string of str.split(sep)) ",
+                "    arr.pushValue(string);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The string to split",
+              "name": "str",
+              "type": "string"
+            },
+            {
+              "description": "The separator to use to split the string",
+              "longDescription": "For example, if you have a string \"Hello World\", and the separator is a space (\" \"), the resulting array would be [\"Hello\", \"World\"]. If the separator is an empty string (\"\"), it will make an element per character ([\"H\", \"e\", \"l\", \"l\", \"o\", \" \", \"W\", \"o\", \"r\", \"l\", \"d\"]).",
+              "name": "sep",
+              "type": "string"
+            },
+            {
+              "description": "The name of the variable where to store the array",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Returns a string made from all strings in an array.",
+          "fullName": "Join all elements of an array together into a string",
+          "functionType": "StringExpression",
+          "name": "Join",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"));\r",
+                "const sep = eventsFunctionContext.getArgument(\"sep\");\r",
+                "\r",
+                "eventsFunctionContext.returnValue = arr\r",
+                "    .getAllChildrenArray()\r",
+                "    .reduce((accumulator, current) => accumulator + sep + current.getAsString(), \"\")\r",
+                "    // Remove first separator as it should be only between the strings\r",
+                "    .slice(sep.length);\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The name of the array to join into a string",
+              "name": "arr",
+              "type": "string"
+            },
+            {
+              "description": "Optional separator text between each element",
+              "name": "sep",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Get the sum of all numbers in an array.",
+          "fullName": "Sum of array children",
+          "functionType": "Expression",
+          "name": "Sum",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "eventsFunctionContext.returnValue = runtimeScene",
+                "    .getVariables()",
+                "    .get(eventsFunctionContext.getArgument(\"arr\"))",
+                "    .getAllChildrenArray()",
+                "    .reduce((accumulator, current) => accumulator + current.getAsNumber(), 0);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The name of the array",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Gets the smallest number in an array.",
+          "fullName": "Smallest value",
+          "functionType": "Expression",
+          "name": "Min",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\")).getAllChildrenArray();\r",
+                "\r",
+                "let min = arr[0].getAsNumber();\r",
+                "for (let i = 1; i < arr.length; i++) {\r",
+                "    const num = arr[i].getAsNumber();\r",
+                "    if (num < min) min = num;\r",
+                "}\r",
+                "\r",
+                "eventsFunctionContext.returnValue = min;\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The array",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Gets the biggest number in an array.",
+          "fullName": "Biggest value",
+          "functionType": "Expression",
+          "name": "Max",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\")).getAllChildrenArray();\r",
+                "\r",
+                "let max = arr[0].getAsNumber();\r",
+                "for (let i = 1; i < arr.length; i++) {\r",
+                "    const num = arr[i].getAsNumber();\r",
+                "    if (num > max) max = num;\r",
+                "}\r",
+                "\r",
+                "eventsFunctionContext.returnValue = max;\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The array",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Gets the average number in an array.",
+          "fullName": "Average value",
+          "functionType": "Expression",
+          "name": "Mean",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\")).getAllChildrenArray();\r",
+                "eventsFunctionContext.returnValue =\r",
+                "    arr.reduce((accumulator, current) => accumulator + current.getAsNumber(), 0) / arr.length;\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The array",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Gets the median number in an array.",
+          "fullName": "Median value",
+          "functionType": "Expression",
+          "name": "Median",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ArrayTools::Slice"
+                  },
+                  "parameters": [
+                    "",
+                    "GetArgumentAsString(\"arr\")",
+                    "\"__ArrayTools_tmp\"",
+                    "0",
+                    "0",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ArrayTools::Sort"
+                  },
+                  "parameters": [
+                    "",
+                    "\"__ArrayTools_tmp\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(\"__ArrayTools_tmp\").getAllChildrenArray();\r",
+                "const i = arr.length / 2;\r",
+                "eventsFunctionContext.returnValue = \r",
+                "    i % 1 == 0 \r",
+                "        ? (arr[i - 1].getAsNumber() + arr[i].getAsNumber()) / 2 \r",
+                "        : arr[Math.floor(i)].getAsNumber();\r",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The array",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Sort an array of number from smallest to biggest.",
+          "fullName": "Sort an array",
+          "functionType": "Action",
+          "name": "Sort",
+          "sentence": "Sort array _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const arr = runtimeScene.getVariables().get(eventsFunctionContext.getArgument(\"arr\"))",
+                "// Cast to array to ensure getAllChildrenArray returns the real array",
+                "arr.castTo(\"array\");",
+                "",
+                "arr.getAllChildrenArray()",
+                "    .sort((a, b) => {",
+                "        const na = a.getAsNumber();",
+                "        const nb = b.getAsNumber();",
+                "        return na < nb ? -1 : na > nb ? 1 : 0;",
+                "    });",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The array to sort",
+              "name": "arr",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [],
+      "eventsBasedObjects": []
+    },
     {
       "author": "@4ian",
       "category": "Game mechanic",
