@@ -211,7 +211,34 @@
   },
   "objects": [],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "ans",
+      "type": "array",
+      "children": [
+        {
+          "folded": true,
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "type": "number",
+          "value": 0
+        }
+      ]
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -865,6 +892,46 @@
                 "\"ans\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "ans[0]",
+                "=",
+                "Variable(ans[0])"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "ans[1]",
+                "=",
+                "Variable(ans[1])"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "ans[2]",
+                "=",
+                "Variable(ans[2])"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "ans[3]",
+                "=",
+                "Variable(ans[3])"
+              ]
             }
           ]
         },
@@ -873,7 +940,7 @@
           "conditions": [
             {
               "type": {
-                "value": "VarScene"
+                "value": "VarGlobal"
               },
               "parameters": [
                 "ans[0]",
@@ -911,7 +978,7 @@
                 "value": "VarGlobal"
               },
               "parameters": [
-                "answer[0]",
+                "ans[0]",
                 "=",
                 "2"
               ]
