@@ -349,6 +349,24 @@
         "name": "assets\\NewSprite13 - Copy.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite15.png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1700,7 +1718,26 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline1",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline2",
+                "True"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -1735,11 +1772,12 @@
           "actions": [
             {
               "type": {
-                "value": "PushScene"
+                "value": "Scene"
               },
               "parameters": [
                 "",
-                "\"level\""
+                "\"level\"",
+                "yes"
               ]
             },
             {
@@ -2934,71 +2972,6 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "level2",
-      "name": "level2",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [],
-      "objects": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 12885960,
-          "ambientLightColorG": 150995054,
-          "ambientLightColorR": 1869182049,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "SpriteRecolorizer",
-          "type": "Recolorizer::SpriteRecolorizer"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
       "mangledName": "game",
       "name": "game",
       "r": 209,
@@ -3140,6 +3113,21 @@
           "x": 785,
           "y": 68,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "game_panel",
+          "persistentUuid": "9e08c7b4-5e4d-44bc-a76b-efe6e9314f66",
+          "width": 0,
+          "x": 640,
+          "y": 357,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3664,6 +3652,74 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "game_panel",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite15",
+                      "points": [
+                        {
+                          "name": "ll1",
+                          "x": 515,
+                          "y": 110
+                        },
+                        {
+                          "name": "ll2",
+                          "x": 770,
+                          "y": 110
+                        },
+                        {
+                          "name": "ques",
+                          "x": 640,
+                          "y": 300
+                        },
+                        {
+                          "name": "ans_p",
+                          "x": 640,
+                          "y": 560
+                        },
+                        {
+                          "name": "time",
+                          "x": 925,
+                          "y": 450
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 640,
+                        "y": 360
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -3757,6 +3813,92 @@
               "parameters": [
                 "",
                 "\"time\""
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "answer_panel",
+                "=",
+                "game_panel.PointX(\"ans_p\")",
+                "=",
+                "game_panel.PointY(\"ans_p\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "ll2",
+                "=",
+                "game_panel.PointX(\"ll2\")",
+                "=",
+                "game_panel.PointY(\"ll2\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "ll1",
+                "=",
+                "game_panel.PointX(\"ll1\")",
+                "=",
+                "game_panel.PointY(\"ll2\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "time",
+                "=",
+                "game_panel.PointX(\"time\")",
+                "=",
+                "game_panel.PointY(\"time\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "question",
+                "=",
+                "game_panel.PointX(\"ques\")",
+                "=",
+                "game_panel.PointY(\"ques\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "game_panel"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "game_panel",
+                "=",
+                "SceneWindowWidth()/2",
+                "=",
+                "SceneWindowHeight()/2"
               ]
             }
           ]
@@ -4460,11 +4602,12 @@
               "actions": [
                 {
                   "type": {
-                    "value": "PushScene"
+                    "value": "Scene"
                   },
                   "parameters": [
                     "",
-                    "\"main\""
+                    "\"main\"",
+                    "yes"
                   ]
                 }
               ]
