@@ -286,6 +286,69 @@
         "name": "time2",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_NewSprite9 - Copy.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\NewSprite9 - Copy.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_NewSprite9 - Copy (2).png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\NewSprite9 - Copy (2).png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite12 - Copy.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/NewSprite12 - Copy.png\",\"extension\":\".png\"}",
+        "name": "assets\\NewSprite12 - Copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite13 - Copy.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/NewSprite13 - Copy.png\",\"extension\":\".png\"}",
+        "name": "assets\\NewSprite13 - Copy.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -312,11 +375,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -342,11 +405,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -372,11 +435,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -414,11 +477,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -444,11 +507,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -474,11 +537,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -516,11 +579,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -546,11 +609,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -576,11 +639,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -618,11 +681,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -648,11 +711,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -678,11 +741,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -720,11 +783,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -750,11 +813,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -780,11 +843,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -822,11 +885,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -852,11 +915,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -882,11 +945,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -924,11 +987,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -954,11 +1017,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -984,11 +1047,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1026,11 +1089,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1056,11 +1119,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1086,11 +1149,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1128,11 +1191,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1158,11 +1221,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1188,11 +1251,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1230,11 +1293,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy.png",
+                  "image": "assets\\NewSprite9 - Copy.png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1260,11 +1323,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite9",
+                  "image": "NewSprite11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1290,11 +1353,11 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "assets\\NewSprite9 - Copy (2).png",
+                  "image": "assets\\NewSprite9 - Copy (2).png2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 250,
+                    "x": 150,
                     "y": 50
                   },
                   "centerPoint": {
@@ -1464,6 +1527,17 @@
       "name": "t_time",
       "type": "number",
       "value": 20
+    },
+    {
+      "folded": true,
+      "name": "lifeline1",
+      "type": "boolean",
+      "value": true
+    },
+    {
+      "name": "lifeline2",
+      "type": "boolean",
+      "value": true
     }
   ],
   "layouts": [
@@ -1752,6 +1826,10 @@
           "type": "Health::Health"
         },
         {
+          "name": "SpriteRecolorizer",
+          "type": "Recolorizer::SpriteRecolorizer"
+        },
+        {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
         }
@@ -1777,7 +1855,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.5014865861275545,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1791,8 +1869,8 @@
           "name": "ve1",
           "persistentUuid": "b7a870ff-0c95-4888-90e0-e376170a9e28",
           "width": 0,
-          "x": 635,
-          "y": 634,
+          "x": 271,
+          "y": 632,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1804,10 +1882,10 @@
           "height": 0,
           "layer": "",
           "name": "ve2",
-          "persistentUuid": "97d6dc42-c81c-43df-a909-eedfddbd03a4",
+          "persistentUuid": "0660a936-3b1d-49c4-854d-22791209c23f",
           "width": 0,
-          "x": 633,
-          "y": 503,
+          "x": 269,
+          "y": 502,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1819,10 +1897,10 @@
           "height": 0,
           "layer": "",
           "name": "e1",
-          "persistentUuid": "bbf52fc9-41d3-4b1f-9942-dd464d2d48ca",
+          "persistentUuid": "c01842ef-32b1-4903-94ed-9e2951174826",
           "width": 0,
-          "x": 633,
-          "y": 361,
+          "x": 269,
+          "y": 366,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1834,10 +1912,10 @@
           "height": 0,
           "layer": "",
           "name": "e2",
-          "persistentUuid": "eaca3bcb-89ed-4ff7-9dfb-9a1474d4fe51",
+          "persistentUuid": "d463e492-24d0-40d7-8d1f-34bfbe382304",
           "width": 0,
-          "x": 633,
-          "y": 229,
+          "x": 269,
+          "y": 226,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -1849,548 +1927,26 @@
           "height": 0,
           "layer": "",
           "name": "a1",
-          "persistentUuid": "2799c166-48de-4783-a104-6f3ba93e8936",
+          "persistentUuid": "037a2a11-5447-4a20-98ec-2c04012df17f",
           "width": 0,
-          "x": 633,
-          "y": 101,
+          "x": 267,
+          "y": 88,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        }
-      ],
-      "objects": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                ">",
-                "5"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"level2\""
-              ]
-            }
-          ]
         },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "ve1",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "2"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "ve1",
-                "=",
-                "2"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "ve2",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "3"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "ve2",
-                "=",
-                "2"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "e1",
-                "=",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "4"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "e2",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "e1",
-                "=",
-                "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "5"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "a1",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "e2",
-                "=",
-                "2"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "ve1",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"game\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "ve2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "2"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"game\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "e1",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "3"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"game\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "e2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "4"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"game\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "a1",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarGlobal"
-              },
-              "parameters": [
-                "level",
-                "=",
-                "5"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"game\""
-              ]
-            }
-          ]
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 7360560,
-          "ambientLightColorG": 150995054,
-          "ambientLightColorR": 1869182049,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "SpriteRecolorizer",
-          "type": "Recolorizer::SpriteRecolorizer"
-        }
-      ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "level2",
-      "name": "level2",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
         {
           "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
           "name": "a2",
-          "persistentUuid": "564e4f67-4cfd-4aad-8e83-892a8894df90",
+          "persistentUuid": "bb11df72-a694-4743-a654-4957fce6e77e",
           "width": 0,
-          "x": 648,
-          "y": 628,
-          "zOrder": 1,
+          "x": 937,
+          "y": 633,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2401,11 +1957,11 @@
           "height": 0,
           "layer": "",
           "name": "d1",
-          "persistentUuid": "64e997fd-2959-4e4f-adab-1aa6e34230de",
+          "persistentUuid": "3047cc07-1d55-4a5d-babd-7bc5820d553a",
           "width": 0,
-          "x": 648,
-          "y": 494,
-          "zOrder": 2,
+          "x": 937,
+          "y": 496,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2416,11 +1972,11 @@
           "height": 0,
           "layer": "",
           "name": "d2",
-          "persistentUuid": "a404f7b6-d869-472f-bac8-86fd45a7e374",
+          "persistentUuid": "da29a79e-ba0c-4bff-819e-92bed4f614bd",
           "width": 0,
-          "x": 644,
-          "y": 359,
-          "zOrder": 3,
+          "x": 940,
+          "y": 355,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2431,11 +1987,11 @@
           "height": 0,
           "layer": "",
           "name": "vd1",
-          "persistentUuid": "1ecf8155-0e74-4228-8bf7-5ecaebb57d08",
+          "persistentUuid": "8737b82a-4db1-43b5-bdea-6b750d6eae45",
           "width": 0,
-          "x": 642,
-          "y": 209,
-          "zOrder": 4,
+          "x": 938,
+          "y": 220,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2446,11 +2002,11 @@
           "height": 0,
           "layer": "",
           "name": "vd2",
-          "persistentUuid": "b0582b02-f5f5-4260-ad9d-ff668dd80e71",
+          "persistentUuid": "42a76fd1-9e21-4110-97b5-3b922aa16b60",
           "width": 0,
-          "x": 640,
-          "y": 81,
-          "zOrder": 5,
+          "x": 938,
+          "y": 87,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2458,6 +2014,181 @@
       ],
       "objects": [],
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "ve1",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "ve1",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "ve2",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "ve2",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "e1",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "e2",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "e1",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "5"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "a1",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "e2",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -2481,6 +2212,16 @@
                 "a2",
                 "=",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "a1",
+                "=",
+                "2"
               ]
             }
           ]
@@ -2629,6 +2370,266 @@
                 "vd1",
                 "=",
                 "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "ve1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"game\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "ve2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"game\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "e1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"game\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "e2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "4"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"game\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "a1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"game\""
               ]
             }
           ]
@@ -2901,6 +2902,71 @@
       ],
       "layers": [
         {
+          "ambientLightColorB": 7360560,
+          "ambientLightColorG": 150995054,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "SpriteRecolorizer",
+          "type": "Recolorizer::SpriteRecolorizer"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "level2",
+      "name": "level2",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "layers": [
+        {
           "ambientLightColorB": 12885960,
           "ambientLightColorG": 150995054,
           "ambientLightColorR": 1869182049,
@@ -2923,7 +2989,12 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "SpriteRecolorizer",
+          "type": "Recolorizer::SpriteRecolorizer"
+        }
+      ]
     },
     {
       "b": 209,
@@ -3018,21 +3089,6 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "btn",
-          "persistentUuid": "cc993c00-e3de-4497-b39f-2e77f7dde7d6",
-          "width": 0,
-          "x": 610,
-          "y": 21,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
           "name": "question",
           "persistentUuid": "84870df1-8dae-4369-8740-eec0f039fc9e",
           "width": 0,
@@ -3054,6 +3110,36 @@
           "x": 945,
           "y": 434,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "ll1",
+          "persistentUuid": "6c4bd434-01b2-46dd-8ba4-7d6c81497b1c",
+          "width": 0,
+          "x": 540,
+          "y": 66,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "ll2",
+          "persistentUuid": "0f2dd14a-53e2-4b66-99c8-65392f19aa2a",
+          "width": 0,
+          "x": 785,
+          "y": 68,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3420,6 +3506,150 @@
                         "name": "origine",
                         "x": 250,
                         "y": 150
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ll1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 100,
+                        "y": 25
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "assets\\NewSprite12 - Copy.png",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\NewSprite12 - Copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 100,
+                        "y": 25
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ll2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 100,
+                        "y": 25
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "assets\\NewSprite13 - Copy.png",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\NewSprite13 - Copy.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 100,
+                        "y": 25
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -4440,6 +4670,186 @@
                 "time",
                 "=",
                 "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "ll1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline1",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ans2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ans3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "ll2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline2",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "question",
+                "=",
+                "SceneVariableLastNumber(e_ques)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ToggleGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline2",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "ll2",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "lifeline1",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "ll1",
+                "=",
+                "1"
               ]
             }
           ]
