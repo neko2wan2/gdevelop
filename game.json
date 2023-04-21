@@ -412,6 +412,69 @@
         "name": "time4",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "green (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "green (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "yellow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "yellow.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "red.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "veq1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "veq1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "veq12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "veq12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "veq13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "veq13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "veq14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "veq14.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1463,12 +1526,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewSprite16",
+                  "image": "green (1).png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
-                    "y": 5
+                    "y": 7
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -1493,12 +1556,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "time3",
+                  "image": "yellow.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
-                    "y": 5
+                    "y": 7
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -1523,12 +1586,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "time4",
+                  "image": "red.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
-                    "y": 5
+                    "y": 7
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -3070,7 +3133,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5117784035210173,
+        "zoomFactor": 0.4789341884535252,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3161,8 +3224,8 @@
           "name": "ll1",
           "persistentUuid": "6c4bd434-01b2-46dd-8ba4-7d6c81497b1c",
           "width": 0,
-          "x": 540,
-          "y": 66,
+          "x": 512,
+          "y": 62,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -5006,12 +5069,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite8",
+                      "image": "veq14.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 250,
-                        "y": 150
+                        "x": 300,
+                        "y": 50
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5036,12 +5099,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\NewSprite8 - Copy.png",
+                      "image": "veq12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 250,
-                        "y": 150
+                        "x": 300,
+                        "y": 50
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -5066,12 +5129,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\NewSprite8 - Copy (2).png",
+                      "image": "veq13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 250,
-                        "y": 150
+                        "x": 300,
+                        "y": 50
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6216,6 +6279,25 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewBBText",
+          "tags": "",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
+            "opacity": 255,
+            "fontSize": 20,
+            "visible": true,
+            "color": "0;0;0",
+            "fontFamily": "Arial",
+            "align": "left",
+            "wordWrap": true
+          }
         }
       ],
       "events": [
