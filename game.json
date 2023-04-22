@@ -673,6 +673,42 @@
         "name": "l10.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/time3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\time3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/time4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\time4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewSprite8.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1424,12 +1460,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "green (1).png",
+                  "image": "assets\\NewSprite16.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
-                    "y": 7
+                    "y": 5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -1454,12 +1490,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "yellow.png",
+                  "image": "assets\\time3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
-                    "y": 7
+                    "y": 5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -1484,12 +1520,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "red.png",
+                  "image": "assets\\time4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
-                    "y": 7
+                    "y": 5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -3172,15 +3208,15 @@
       ]
     },
     {
-      "b": 209,
+      "b": 226,
       "disableInputWhenNotFocused": true,
       "mangledName": "game",
       "name": "game",
-      "r": 209,
+      "r": 74,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 144,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -6189,81 +6225,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "question",
-          "persistentUuid": "6f1139ac-379f-4342-bc6f-b6c49667998e",
-          "width": 0,
-          "x": 547,
-          "y": 155,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "ans1",
-          "persistentUuid": "3052b766-4e69-41fa-b77d-621dc97d72c8",
-          "width": 0,
-          "x": 157,
-          "y": 374,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "ans2",
-          "persistentUuid": "019f5ebe-2c4a-46bd-8c48-130f82007b3e",
-          "width": 0,
-          "x": 884,
-          "y": 383,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "ans3",
-          "persistentUuid": "b04958aa-1d85-48df-8c2b-938f5ca04a22",
-          "width": 0,
-          "x": 165,
-          "y": 558,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "ans4",
-          "persistentUuid": "552a712d-4d90-40e5-adaf-acb56779308b",
-          "width": 0,
-          "x": 890,
-          "y": 564,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
         }
       ],
       "objects": [
@@ -8073,12 +8034,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "veq14.png",
+                      "image": "assets\\NewSprite8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 300,
-                        "y": 50
+                        "x": 250,
+                        "y": 150
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -8103,12 +8064,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "veq12.png",
+                      "image": "assets\\NewSprite8 - Copy.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 300,
-                        "y": 50
+                        "x": 250,
+                        "y": 150
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -8133,12 +8094,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "veq13.png",
+                      "image": "assets\\NewSprite8 - Copy (2).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 300,
-                        "y": 50
+                        "x": 250,
+                        "y": 150
                       },
                       "centerPoint": {
                         "automatic": true,
