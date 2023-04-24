@@ -8846,6 +8846,18 @@
                 "=",
                 "feedback.PointY(\"continue\")"
               ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "feedback",
+                "=",
+                "SceneWindowWidth()/2",
+                "=",
+                "SceneWindowHeight()/2"
+              ]
             }
           ]
         },
