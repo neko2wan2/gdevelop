@@ -46,7 +46,7 @@
     },
     "watermark": {
       "placement": "bottom-left",
-      "showWatermark": true
+      "showWatermark": false
     },
     "authorIds": [],
     "authorUsernames": [],
@@ -3195,14 +3195,13 @@
           ]
         },
         {
-          "folded": true,
           "name": "ve_ques1",
           "type": "array",
           "children": [
             {
               "folded": true,
               "type": "string",
-              "value": "from https://www.englishclub.com \nWhich tense is used in this sentence?\nWhy do you live in France?\n"
+              "value": "From: https://www.englishclub.com \n\nWhich tense is used in this sentence?\n\nWhy do you live in France?\n"
             },
             {
               "folded": true,
@@ -3707,7 +3706,6 @@
           ]
         },
         {
-          "folded": true,
           "name": "ve_ans1",
           "type": "array",
           "children": [
@@ -3716,19 +3714,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "present simple"
+                  "value": "Present Simple"
                 },
                 {
                   "type": "string",
-                  "value": "present perfect"
+                  "value": "Present Perfect"
                 },
                 {
                   "type": "string",
-                  "value": "present continuous"
+                  "value": "Present Continuous"
                 },
                 {
                   "type": "string",
-                  "value": "present perfect continuous"
+                  "value": "Present Perfect Continuous "
                 }
               ]
             },
@@ -6178,81 +6176,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 148,
-          "layer": "",
-          "name": "question",
-          "persistentUuid": "f93ccf06-2671-4850-8edd-5606d8bb3b2c",
-          "width": 1134,
-          "x": 74,
-          "y": 149,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 39,
-          "layer": "",
-          "name": "ans1",
-          "persistentUuid": "e54c4eac-d3e3-46b3-ac9c-5a035dbe054c",
-          "width": 554,
-          "x": 178,
-          "y": 556,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 39,
-          "layer": "",
-          "name": "ans2",
-          "persistentUuid": "b3d6c550-fb0a-4c09-8819-39d5f2538820",
-          "width": 554,
-          "x": 631,
-          "y": 543,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 39,
-          "layer": "",
-          "name": "ans3",
-          "persistentUuid": "ef0aa579-6dcc-4089-81bc-ccf377493bd5",
-          "width": 554,
-          "x": 155,
-          "y": 658,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 39,
-          "layer": "",
-          "name": "ans4",
-          "persistentUuid": "e538cf16-b000-4c54-86dc-ea8ec011db65",
-          "width": 554,
-          "x": 854,
-          "y": 675,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "feedback",
@@ -6292,6 +6215,81 @@
           "x": 652,
           "y": 387,
           "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 152,
+          "layer": "",
+          "name": "ques_new",
+          "persistentUuid": "e0d82b49-0a70-43b0-99b8-de6c46762a17",
+          "width": 501,
+          "x": 403,
+          "y": 153,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "layer": "",
+          "name": "ans1_new",
+          "persistentUuid": "677499cf-46a2-4910-9862-4153d43a11c7",
+          "width": 200,
+          "x": 163,
+          "y": 765,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "layer": "",
+          "name": "ans2_new",
+          "persistentUuid": "4988de54-7f3d-4aa0-bab0-9124c56c3e50",
+          "width": 200,
+          "x": 629,
+          "y": 779,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "layer": "",
+          "name": "ans3_new",
+          "persistentUuid": "92b42f61-f2da-4d4c-bef8-ab86242efbe6",
+          "width": 200,
+          "x": 1299,
+          "y": 412,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "layer": "",
+          "name": "ans4_new",
+          "persistentUuid": "94c20b8b-d7d2-4dbe-ac6f-286a879fe749",
+          "width": 200,
+          "x": 1291,
+          "y": 650,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6428,7 +6426,7 @@
                       "points": [
                         {
                           "name": "ques",
-                          "x": 250,
+                          "x": 400,
                           "y": 15
                         }
                       ],
@@ -6665,63 +6663,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "question",
-          "tags": "",
-          "type": "BBText::BBText",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
-            "opacity": 255,
-            "fontSize": 40,
-            "visible": true,
-            "color": "0;0;0",
-            "fontFamily": "Arial",
-            "align": "center",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "ans1",
-          "tags": "",
-          "type": "BBText::BBText",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
-            "opacity": 255,
-            "fontSize": 20,
-            "visible": true,
-            "color": "0;0;0",
-            "fontFamily": "Arial",
-            "align": "center",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "ans2",
-          "tags": "",
-          "type": "BBText::BBText",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
-            "opacity": 255,
-            "fontSize": 20,
-            "visible": true,
-            "color": "0;0;0",
-            "fontFamily": "Arial",
-            "align": "center",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
           "name": "ans3",
           "tags": "",
           "type": "BBText::BBText",
@@ -6782,7 +6723,7 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 200,
+                          "x": 190,
                           "y": 10
                         }
                       ],
@@ -6829,7 +6770,7 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 200,
+                          "x": 190,
                           "y": 10
                         }
                       ],
@@ -6876,7 +6817,7 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 200,
+                          "x": 190,
                           "y": 10
                         }
                       ],
@@ -6923,7 +6864,7 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 200,
+                          "x": 190,
                           "y": 10
                         }
                       ],
@@ -7138,6 +7079,106 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ques_new",
+          "tags": "",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "center",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans1_new",
+          "tags": "",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans2_new",
+          "tags": "",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans3_new",
+          "tags": "",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans4_new",
+          "tags": "",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "left",
+            "wordWrap": true
+          }
         }
       ],
       "events": [
@@ -8653,50 +8694,50 @@
           "actions": [
             {
               "type": {
-                "value": "BBText::SetBBText"
+                "value": "BitmapText::BitmapTextObject::SetText"
               },
               "parameters": [
-                "question",
+                "ques_new",
                 "=",
                 "VariableString(ve_ques1[0])"
               ]
             },
             {
               "type": {
-                "value": "BBText::SetBBText"
+                "value": "BitmapText::BitmapTextObject::SetText"
               },
               "parameters": [
-                "ans1",
+                "ans1_new",
                 "=",
                 "VariableString(ve_ans1[0][0])"
               ]
             },
             {
               "type": {
-                "value": "BBText::SetBBText"
+                "value": "BitmapText::BitmapTextObject::SetText"
               },
               "parameters": [
-                "ans2",
+                "ans2_new",
                 "=",
                 "VariableString(ve_ans1[0][1])"
               ]
             },
             {
               "type": {
-                "value": "BBText::SetBBText"
+                "value": "BitmapText::BitmapTextObject::SetText"
               },
               "parameters": [
-                "ans3",
+                "ans3_new",
                 "=",
                 "VariableString(ve_ans1[0][2])"
               ]
             },
             {
               "type": {
-                "value": "BBText::SetBBText"
+                "value": "BitmapText::BitmapTextObject::SetText"
               },
               "parameters": [
-                "ans4",
+                "ans4_new",
                 "=",
                 "VariableString(ve_ans1[0][3])"
               ]
@@ -8706,7 +8747,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "question",
+                "ques_new",
                 "=",
                 "ques.PointX(\"ques\")",
                 "=",
@@ -8718,7 +8759,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans1",
+                "ans1_new",
                 "=",
                 "ansf_1.PointX(\"ans\")",
                 "=",
@@ -8730,7 +8771,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans2",
+                "ans2_new",
                 "=",
                 "ansf_2.PointX(\"ans\")",
                 "=",
@@ -8742,7 +8783,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans3",
+                "ans3_new",
                 "=",
                 "ansf_3.PointX(\"ans\")",
                 "=",
@@ -8754,61 +8795,11 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans4",
+                "ans4_new",
                 "=",
                 "ansf_4.PointX(\"ans\")",
                 "=",
                 "ansf_4.PointY(\"ans\")"
-              ]
-            },
-            {
-              "type": {
-                "value": "BBText::SetAlignment"
-              },
-              "parameters": [
-                "question",
-                "=",
-                "\"center\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BBText::SetAlignment"
-              },
-              "parameters": [
-                "ans1",
-                "=",
-                "\"center\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BBText::SetAlignment"
-              },
-              "parameters": [
-                "ans2",
-                "=",
-                "\"center\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BBText::SetAlignment"
-              },
-              "parameters": [
-                "ans3",
-                "=",
-                "\"center\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BBText::SetAlignment"
-              },
-              "parameters": [
-                "ans4",
-                "=",
-                "\"center\""
               ]
             },
             {
@@ -9123,7 +9114,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "feedback",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         }
