@@ -457,6 +457,51 @@
         "name": "NewSprite20",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/feedback.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "feedback",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Awesome.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Awesome.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Failed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Failed.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BTN Disabled.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BTN Disabled.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BTN Enable.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BTN Enable.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1322,6 +1367,11 @@
       "name": "points",
       "type": "number",
       "value": 0
+    },
+    {
+      "name": "correct",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -6200,6 +6250,51 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "feedback",
+          "name": "feedback",
+          "persistentUuid": "cee4468d-9a8b-4cca-8239-077e7accaee1",
+          "width": 0,
+          "x": 644,
+          "y": 278,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "feedback",
+          "name": "feedback_logo",
+          "persistentUuid": "007fa123-1d21-49f4-8764-b6eae56ff3d3",
+          "width": 0,
+          "x": 644,
+          "y": 97,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "feedback",
+          "name": "continue_btn",
+          "persistentUuid": "6217b942-dc38-4564-af0c-1300d76d3f40",
+          "width": 0,
+          "x": 652,
+          "y": 387,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -6850,6 +6945,199 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "feedback",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "feedback",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "feedback",
+                      "points": [
+                        {
+                          "name": "label",
+                          "x": 250,
+                          "y": 10
+                        },
+                        {
+                          "name": "continue",
+                          "x": 250,
+                          "y": 250
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 250,
+                        "y": 150
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "feedback_logo",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Awesome.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 124,
+                        "y": 68
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Failed.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 124,
+                        "y": 68
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "continue_btn",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BTN Disabled.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 229.5,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BTN Enable.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 229.5,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -7007,6 +7295,24 @@
                 "ansf_4",
                 "=",
                 "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"feedback\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                ""
               ]
             }
           ],
@@ -7827,12 +8133,6 @@
             },
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            },
-            {
-              "type": {
                 "value": "SourisSurObjet"
               },
               "parameters": [
@@ -7841,6 +8141,22 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"feedback\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -7853,59 +8169,32 @@
                 "+",
                 "1"
               ]
-            }
-          ],
-          "events": [
+            },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "level",
-                    "<=",
-                    "10"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PopScene"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"feedback\""
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarGlobal"
-                  },
-                  "parameters": [
-                    "level",
-                    ">",
-                    "10"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"main\"",
-                    "yes"
-                  ]
-                }
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "correct",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                ""
               ]
             }
           ]
@@ -7968,17 +8257,44 @@
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"feedback\""
+              ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "correct",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
               },
               "parameters": [
                 "",
-                "\"main\"",
-                "yes"
+                "\"feedback\""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                ""
               ]
             }
           ]
@@ -8018,6 +8334,16 @@
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"feedback\""
+              ]
             }
           ],
           "actions": [
@@ -8484,6 +8810,273 @@
                 "=",
                 "\"center\""
               ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "game_panel",
+                "=",
+                "SceneWindowWidth()/2",
+                "=",
+                "SceneWindowHeight()/2"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "feedback_logo",
+                "=",
+                "feedback.PointX(\"label\")",
+                "=",
+                "feedback.PointY(\"label\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "continue_btn",
+                "=",
+                "feedback.PointX(\"continue\")",
+                "=",
+                "feedback.PointY(\"continue\")"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "correct",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "feedback_logo",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "correct",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "feedback_logo",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"feedback\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "continue_btn",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Animation"
+              },
+              "parameters": [
+                "continue_btn",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "continue_btn",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "correct",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"main\"",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "correct",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "level",
+                        ">",
+                        "10"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"main\"",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "level",
+                        "<=",
+                        "10"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PopScene"
+                      },
+                      "parameters": [
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -8509,6 +9102,17 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 9776360,
+          "ambientLightColorG": 6069792,
+          "ambientLightColorR": 10457992,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "feedback",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
