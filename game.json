@@ -502,6 +502,16 @@
         "name": "BTN Enable.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1680,6 +1690,27 @@
                 "lifeline2",
                 "True"
               ]
+            },
+            {
+              "type": {
+                "value": "PreloadMusic"
+              },
+              "parameters": [
+                "",
+                "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
+                "yes",
+                "5",
+                "1"
+              ]
             }
           ]
         },
@@ -2175,6 +2206,20 @@
         }
       ],
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
