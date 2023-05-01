@@ -512,6 +512,87 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BTN Disabled Blank.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BTN Disabled Blank.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "text area desktop.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "text area desktop.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "50_50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "50_50.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "DSBLD 50_50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DSBLD 50_50.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Change answer.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Change answer.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "DSBLD change answer.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DSBLD change answer.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BTN Play D.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BTN Play D.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Quit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Quit.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GG logo Desktop.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GG logo Desktop.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1382,6 +1463,12 @@
       "name": "correct",
       "type": "boolean",
       "value": false
+    },
+    {
+      "folded": true,
+      "name": "count",
+      "type": "number",
+      "value": 5
     }
   ],
   "layouts": [
@@ -1498,12 +1585,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "rightbtn_blue.png",
+                      "image": "BTN Play D.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 50,
-                        "y": 51
+                        "x": 230,
+                        "y": 30
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -1539,12 +1626,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "closebtn_blue.png",
+                      "image": "Quit.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 50,
-                        "y": 50
+                        "x": 123,
+                        "y": 30
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -1590,7 +1677,7 @@
                         {
                           "name": "start",
                           "x": 640,
-                          "y": 510
+                          "y": 520
                         },
                         {
                           "name": "exit",
@@ -1637,12 +1724,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "logo d.png",
+                      "image": "GG logo Desktop.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 354,
-                        "y": 235
+                        "x": 463.5,
+                        "y": 198
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3208,7 +3295,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4789341884535252,
+        "zoomFactor": 0.43357743047023795,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6338,6 +6425,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "count",
+          "persistentUuid": "c03b85fe-7d4d-4373-b7f8-4ec7e0ceb8ad",
+          "width": 0,
+          "x": 466,
+          "y": 575,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -6515,12 +6617,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite12",
+                      "image": "50_50.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 100,
-                        "y": 25
+                        "x": 20,
+                        "y": 21.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6545,12 +6647,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\NewSprite12 - Copy.png",
+                      "image": "DSBLD 50_50.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 100,
-                        "y": 25
+                        "x": 20,
+                        "y": 21.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6587,12 +6689,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite13",
+                      "image": "Change answer.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 100,
-                        "y": 25
+                        "x": 20,
+                        "y": 21.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6617,12 +6719,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\NewSprite13 - Copy.png",
+                      "image": "DSBLD change answer.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 100,
-                        "y": 25
+                        "x": 20,
+                        "y": 21.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -6953,23 +7055,23 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "feedback",
+                      "image": "text area desktop.png",
                       "points": [
                         {
                           "name": "label",
-                          "x": 250,
-                          "y": 10
+                          "x": 580,
+                          "y": 0
                         },
                         {
                           "name": "continue",
-                          "x": 250,
-                          "y": 250
+                          "x": 580,
+                          "y": 360
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 250,
-                        "y": 150
+                        "x": 580,
+                        "y": 205
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -7075,8 +7177,14 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "BTN Disabled.png",
-                      "points": [],
+                      "image": "BTN Disabled Blank.png",
+                      "points": [
+                        {
+                          "name": "count",
+                          "x": 229.5,
+                          "y": 19.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 229.5,
@@ -7105,7 +7213,13 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "BTN Enable.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "count",
+                          "x": 229.5,
+                          "y": 19.5
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 229.5,
@@ -7222,6 +7336,26 @@
             "bitmapFontResourceName": "",
             "textureAtlasResourceName": "",
             "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "count",
+          "tags": "",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "5",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "center",
             "wordWrap": true
           }
         }
@@ -7399,6 +7533,25 @@
               "parameters": [
                 "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "count",
+                "=",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeLayer"
+              },
+              "parameters": [
+                "count",
+                "\"feedback\""
               ]
             }
           ],
@@ -8591,6 +8744,24 @@
               "parameters": [
                 "lifeline1"
               ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ans2_new",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ans3_new",
+                ""
+              ]
             }
           ]
         },
@@ -8963,6 +9134,16 @@
             },
             {
               "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "count",
+                ">",
+                "0"
+              ]
+            },
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
@@ -8971,12 +9152,98 @@
           "actions": [
             {
               "type": {
-                "value": "Wait"
+                "value": "ResetTimer"
               },
               "parameters": [
-                "5"
+                "",
+                "\"count\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"count\"",
+                ">=",
+                "1"
               ]
             },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "count",
+                ">",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "count",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"count\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"feedback\""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "count",
+                "<=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "value": "ChangeAnimation"
@@ -8985,6 +9252,15 @@
                 "continue_btn",
                 "=",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "count",
+                ""
               ]
             }
           ]
@@ -9124,6 +9400,34 @@
                     }
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "count",
+                "=",
+                "continue_btn.PointX(\"count\")",
+                "=",
+                "continue_btn.PointY(\"count\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "BitmapText::BitmapTextObject::SetText"
+              },
+              "parameters": [
+                "count",
+                "=",
+                "ToString(GlobalVariable(count))"
               ]
             }
           ]
