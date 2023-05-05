@@ -64,127 +64,10 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "rightbtn_blue.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "rightbtn_blue.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "closebtn_blue.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "closebtn_blue.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite7",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite8",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite8 - Copy.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/NewSprite8 - Copy.png\",\"extension\":\".png\"}",
-        "name": "assets\\NewSprite8 - Copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite8 - Copy (2).png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/NewSprite8 - Copy (2).png\",\"extension\":\".png\"}",
-        "name": "assets\\NewSprite8 - Copy (2).png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite12",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite12 - Copy.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/NewSprite12 - Copy.png\",\"extension\":\".png\"}",
-        "name": "assets\\NewSprite12 - Copy.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite13",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite13 - Copy.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/NewSprite13 - Copy.png\",\"extension\":\".png\"}",
-        "name": "assets\\NewSprite13 - Copy.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -212,15 +95,6 @@
         "kind": "image",
         "metadata": "",
         "name": "ul12.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "l1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "l1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -424,15 +298,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "logo d.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "logo d.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Question.png",
         "kind": "image",
         "metadata": "",
@@ -460,15 +325,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/feedback.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "feedback",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Awesome.png",
         "kind": "image",
         "metadata": "",
@@ -487,30 +343,11 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "BTN Disabled.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BTN Disabled.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "BTN Enable.png",
         "kind": "image",
         "metadata": "",
         "name": "BTN Enable.png",
         "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "file": "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
         "userAdded": true
       },
       {
@@ -1469,6 +1306,12 @@
       "name": "count",
       "type": "number",
       "value": 5
+    },
+    {
+      "folded": true,
+      "name": "rand",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -1776,27 +1619,6 @@
               "parameters": [
                 "lifeline2",
                 "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "PreloadMusic"
-              },
-              "parameters": [
-                "",
-                "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlayMusic"
-              },
-              "parameters": [
-                "",
-                "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
-                "yes",
-                "5",
-                "1"
               ]
             }
           ]
@@ -3301,6 +3123,7 @@
       "objectsGroups": [],
       "variables": [
         {
+          "folded": true,
           "name": "ans",
           "type": "array",
           "children": [
@@ -3327,52 +3150,94 @@
           ]
         },
         {
+          "folded": true,
           "name": "ve_ques1",
           "type": "array",
           "children": [
             {
               "folded": true,
               "type": "string",
-              "value": "From: https://www.englishclub.com \n\nWhich tense is used in this sentence?\n\nWhy do you live in France?\n"
+              "value": "from https://www.englishclub.com \n\nIn the question \"Did you win?\", which is the auxiliary verb?\n"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "1"
+              "value": "from https://www.englishclub.com \n\nActive or Passive voice? \n\nI ate a piece of chocolate cake."
             },
             {
               "type": "string",
-              "value": "2"
+              "value": "from https://www.englishclub.com \n\nActive or Passive voice? \n\nThe money was stolen."
             },
             {
               "type": "string",
-              "value": "0"
-            },
-            {
-              "folded": true,
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nActive or Passive voice? \nI washed my car three weeks ago."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (beautiful)?\n\nI bought a beautiful dress at the mall. "
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (she)?\n\nWhat did she ask you to do?"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (under)?\n\nI left my shoes under the kitchen table."
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (quickly)?\n\nIf we finish our work quickly we can go to the movies."
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (work)?\n\nOn Saturdays I work from nine to five."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (university)?\n\nI want to go to a university in the United States."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (met)?\n\nI'm sure I've met your girlfriend before."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (After)?\n\nAfter lunch let's go out for a coffee."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\n\"My sister speaks good English.\" \n\nWhich word is a verb?"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com\n\n\"Let's watch a funny movie.\"\n\n Which word is a noun?"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\n\"Do you like your new teacher?\" \n\nWhich word is an adjective?"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nAdjectives are words like \"hot\" and \"loud\" that tell us more about:"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nAnother part of speech is the adverb. These are words like \"quickly\" and \"quietly\" that tell us more about:\n"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\n\"The test wasn't difficult, so I passed easily.\" The word \"difficult\" is:"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com\n\n\"Olivia's place of birth is England, but she lives here now.\"\n\nWhich word is a pronoun?"
             }
           ]
         },
@@ -3384,46 +3249,91 @@
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com\n\nA pronoun can _______ a noun that's already been mentioned or inferred."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "1"
+              "value": "from https://www.englishclub.com \n\n\"The last train to London has just departed.\" \n\nWhich is a preposition?"
             },
             {
               "type": "string",
-              "value": "2"
+              "value": "from https://www.englishclub.com \n\n\"Ow! That hurts! Stop it!\" \n\nWhich word is an interjection?"
             },
             {
               "type": "string",
-              "value": "0"
-            },
-            {
-              "folded": true,
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
-            },
-            {
-              "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com\n\nWhat part of speech?\n\nArt lovers can visit the  (Metropolitan Museum of Art)  on the Upper Eastside next to Central Park."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com \n\nWhat part of speech?\n\nThey were able to choose from a limited number of programs on three or four (channels)."
+            },
+            {
+              "type": "string",
+              "value": "From https://www.thoughtco.com \n\nWhat part of speech?\n\nI think we need to rethink how addicted we are becoming to being available for (everyone) and everything at all times."
+            },
+            {
+              "type": "string",
+              "value": "From https://www.thoughtco.com \n\nWhat part of speech?\n\nThe (Hong Kong Heng Seng) was up a full 4% due to strong consumer electronics growth."
+            },
+            {
+              "type": "string",
+              "value": "From https://www.thoughtco.com \n\nWhat part of speech?\n\nHe (has become) a new person since he left her."
+            },
+            {
+              "type": "string",
+              "value": "From https://www.thoughtco.com \n\nWhat part of speech?\n\n(Hey!) They might have become rich!"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com\n\nMy grandparents walk _____ twenty minutes a day."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com\n\nHow long is it _____ you visited your grandparents?"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com\n\nWe have been dating _____ a long time."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "from https://www.englishclub.com\n\nThat lady has been waiting for the bus _____ noon."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From https://www.thoughtco.com\n\nThe bank doesn't open _____ 10 a.m."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From https://www.thoughtco.com\n\nShe was born ____ Italy ___ February 15, 1954."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From https://www.thoughtco.com\n\nMost people like basketball, but ____ my opinion it's too chaotic."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From https://www.thoughtco.com\n\nWhat's that book _____?"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nJohn has a car. ____ drives to work."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nBill works in my office. I know ___ well."
             }
           ]
         },
@@ -3434,49 +3344,84 @@
           "children": [
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com\n\nWhen two singular subjects are connected by or, use"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. This box belongs in the attic.\n2. This box of ornaments belongs in the attic."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. The people who survived the explosion are in a shelter.\n2. A man chasing unicorns is on the terrace.\n"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The news is interesting.\n2. Mathematics is easy for her."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Two and two equals four.\n2. Two and two are four.\n"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nAn independent clause contains:"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nA compound sentence consists of:"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nImperative sentences like \"Stop!\" don’t have to include:"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com\n \nIn the sentence \"Wait a minute!\", the predicate has:"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nWhich is a full sentence?"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nThe order of a basic positive sentence is:"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.proprofs.com\n\nAccording to structure, what type of sentence is this? \n\nJohn went to school today, but James remained at home."
+            },
+            {
+              "type": "string",
+              "value": "from https://www.proprofs.com \n\nAccording to structure, what type of sentence is this?\n\nWe decided to go fishing and camp out at the lake."
+            },
+            {
+              "type": "string",
+              "value": "from https://www.proprofs.com \n\nAccording to structure, what type of sentence is this?\n\nI like tea, but Mary likes coffee."
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nA word opposite in meaning to another:"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nA short phrase added to a statement to make it a question:"
+            },
+            {
+              "type": "string",
+              "value": "from https://www.englishclub.com \n\nIf a verb's action is directed at a direct object, it must be:"
+            },
+            {
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich is correct?\n\n1. A bird uses its wings to fly.\n2. It's cold today.\n3. Harbor Inn is my favorite old hotel. It's been in business since 1933."
+            },
+            {
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nI looked up some information about the average American family. I found out that ___ consists of 2.3 children."
             }
           ]
         },
         {
-          "folded": true,
           "name": "e_ques2",
           "type": "array",
           "children": [
@@ -3506,6 +3451,42 @@
             },
             {
               "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
               "type": "string",
               "value": "0"
             },
@@ -3838,27 +3819,29 @@
           ]
         },
         {
+          "folded": true,
           "name": "ve_ans1",
           "type": "array",
           "children": [
             {
+              "folded": true,
               "type": "array",
               "children": [
                 {
                   "type": "string",
-                  "value": "Present Simple"
+                  "value": "Did"
                 },
                 {
                   "type": "string",
-                  "value": "Present Perfect"
+                  "value": "Win"
                 },
                 {
                   "type": "string",
-                  "value": "Present Continuous"
+                  "value": "You"
                 },
                 {
                   "type": "string",
-                  "value": "Present Perfect Continuous "
+                  "value": "?"
                 }
               ]
             },
@@ -3868,19 +3851,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Active"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Passive"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Both A and B"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Neither A nor B"
                 }
               ]
             },
@@ -3890,19 +3873,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Passive"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Active"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Neither"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Both"
                 }
               ]
             },
@@ -3912,19 +3895,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Active"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Passive"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Neither"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Both"
                 }
               ]
             },
@@ -3934,19 +3917,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Adverb"
                 }
               ]
             },
@@ -3956,19 +3939,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Conjunction"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Noun"
                 }
               ]
             },
@@ -3978,19 +3961,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Conjunction"
                 }
               ]
             },
@@ -4000,19 +3983,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Adverb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Conjunction"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Adjective"
                 }
               ]
             },
@@ -4022,19 +4005,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Adverb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Pronoun"
                 }
               ]
             },
@@ -4044,19 +4027,249 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Pronoun"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "Verb"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "Preposition"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "Interjection"
+                },
+                {
+                  "type": "string",
+                  "value": "Adverb"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "Preposition"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "Pronoun"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "Verb"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "Conjunction"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "speaks"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "sister"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "good"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "My"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "movie"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "watch"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "funny"
+                },
+                {
+                  "type": "string",
+                  "value": "us"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "new"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "like"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "teacher"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "you"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "a noun"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "a verb"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "an adverb"
+                },
+                {
+                  "type": "string",
+                  "value": "another adjective"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "a verb"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "a collective noun"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "a common noun"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "a proper noun"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "an adjective"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": " a verb"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "an adverb"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "a noun"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "she"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "Olivia"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "here"
+                },
+                {
+                  "folded": true,
+                  "type": "string",
+                  "value": "now"
                 }
               ]
             }
@@ -4073,19 +4286,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "replace"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": " join"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "shorten"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "describe"
                 }
               ]
             },
@@ -4095,19 +4308,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "to"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "last"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "just"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "has"
                 }
               ]
             },
@@ -4117,19 +4330,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "ow"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "hurst"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "stop"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "that"
                 }
               ]
             },
@@ -4139,19 +4352,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "verb"
                 }
               ]
             },
@@ -4161,19 +4374,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 }
               ]
             },
@@ -4183,19 +4396,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 }
               ]
             },
@@ -4205,19 +4418,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "verb"
                 }
               ]
             },
@@ -4227,19 +4440,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 }
               ]
             },
@@ -4249,19 +4462,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "interjection"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "preposition"
                 }
               ]
             },
@@ -4271,19 +4484,217 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "for"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "since"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "in"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "at"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "since"
+                },
+                {
+                  "type": "string",
+                  "value": "for"
+                },
+                {
+                  "type": "string",
+                  "value": "on"
+                },
+                {
+                  "type": "string",
+                  "value": "from"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "for"
+                },
+                {
+                  "type": "string",
+                  "value": "since"
+                },
+                {
+                  "type": "string",
+                  "value": "in"
+                },
+                {
+                  "type": "string",
+                  "value": "with"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "since"
+                },
+                {
+                  "type": "string",
+                  "value": "for"
+                },
+                {
+                  "type": "string",
+                  "value": "at"
+                },
+                {
+                  "type": "string",
+                  "value": "from"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "until"
+                },
+                {
+                  "type": "string",
+                  "value": "for"
+                },
+                {
+                  "type": "string",
+                  "value": "still"
+                },
+                {
+                  "type": "string",
+                  "value": "just"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "in-on"
+                },
+                {
+                  "type": "string",
+                  "value": "in-to"
+                },
+                {
+                  "type": "string",
+                  "value": "in-in"
+                },
+                {
+                  "type": "string",
+                  "value": "to-in"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "in"
+                },
+                {
+                  "type": "string",
+                  "value": "on"
+                },
+                {
+                  "type": "string",
+                  "value": "from"
+                },
+                {
+                  "type": "string",
+                  "value": "with"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "about"
+                },
+                {
+                  "type": "string",
+                  "value": "to"
+                },
+                {
+                  "type": "string",
+                  "value": "from"
+                },
+                {
+                  "type": "string",
+                  "value": "of"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "He"
+                },
+                {
+                  "type": "string",
+                  "value": "Him"
+                },
+                {
+                  "type": "string",
+                  "value": "His"
+                },
+                {
+                  "type": "string",
+                  "value": "They"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "him"
+                },
+                {
+                  "type": "string",
+                  "value": "he"
+                },
+                {
+                  "type": "string",
+                  "value": "his"
+                },
+                {
+                  "type": "string",
+                  "value": "them"
                 }
               ]
             }
@@ -4300,19 +4711,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": " a singular verb "
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "a plural verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "either singular or plural"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "neither singular nor plural"
                 }
               ]
             },
@@ -4322,19 +4733,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "both"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "1 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "2 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "neither"
                 }
               ]
             },
@@ -4344,19 +4755,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "both"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "1 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "2 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "neither"
                 }
               ]
             },
@@ -4366,19 +4777,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "both"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "1 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "2 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "neither"
                 }
               ]
             },
@@ -4388,19 +4799,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "1 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "2 only"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "both"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "neither"
                 }
               ]
             },
@@ -4410,19 +4821,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "a subject and a verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "a subject and an object"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "a verb and an object"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "an interjection"
                 }
               ]
             },
@@ -4432,19 +4843,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": " two or more independent clauses"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "one or more independent clauses"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "one or more dependent clauses"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "one independent clause and one dependent "
                 }
               ]
             },
@@ -4454,19 +4865,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "the subject"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "the verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "both"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "?"
                 }
               ]
             },
@@ -4476,19 +4887,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "three words"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "two words"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "one word"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "been hidden"
                 }
               ]
             },
@@ -4498,29 +4909,423 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Come here!"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Just a moment."
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "Because I’m happy."
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "My beautiful friend."
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "Subject-Verb-Object"
+                },
+                {
+                  "type": "string",
+                  "value": "Verb-Object-Subject"
+                },
+                {
+                  "type": "string",
+                  "value": "Object-Verb"
+                },
+                {
+                  "type": "string",
+                  "value": "Subject-Object"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "Compound sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Simple sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Complex sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Compound-Complex sentence"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "Simple sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Complex sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Compound sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Compound-Complex sentence"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "Compound sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Simple sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Complex sentence"
+                },
+                {
+                  "type": "string",
+                  "value": "Compound-Complex sentence"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "antonym"
+                },
+                {
+                  "type": "string",
+                  "value": "synonym"
+                },
+                {
+                  "type": "string",
+                  "value": "contranym"
+                },
+                {
+                  "type": "string",
+                  "value": "homonym"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "question tag"
+                },
+                {
+                  "type": "string",
+                  "value": "question phrase"
+                },
+                {
+                  "type": "string",
+                  "value": "question mark"
+                },
+                {
+                  "type": "string",
+                  "value": "interjection"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "a transitive verb"
+                },
+                {
+                  "type": "string",
+                  "value": "an intransitive verb"
+                },
+                {
+                  "type": "string",
+                  "value": "a helping verb"
+                },
+                {
+                  "type": "string",
+                  "value": "a main verb"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "1, 2, and 3"
+                },
+                {
+                  "type": "string",
+                  "value": "1 only"
+                },
+                {
+                  "type": "string",
+                  "value": "1 and 2 only"
+                },
+                {
+                  "type": "string",
+                  "value": "1 and 3 only"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "it"
+                },
+                {
+                  "type": "string",
+                  "value": "its"
+                },
+                {
+                  "type": "string",
+                  "value": "they"
+                },
+                {
+                  "type": "string",
+                  "value": "they’re"
                 }
               ]
             }
           ]
         },
         {
-          "folded": true,
           "name": "e_ans2",
           "type": "array",
           "children": [
+            {
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
             {
               "folded": true,
               "type": "array",
@@ -6106,111 +6911,1018 @@
           ]
         },
         {
+          "folded": true,
           "name": "ve_les1",
           "type": "array",
           "children": [
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: present simple\nWh-Questions in the Present Simple\nTo create a wh-question, start with the wh-word, then add do or does, then the subject (a person or thing that does the action), followed by the base form of the verb and only then add the rest of the sentence. When do you want to meet me? Why does Beth always complain so much?\nSource: Ginger Software https://www.gingersoftware.com "
+              "value": "Answer: Did\n\nDid is the auxiliary verb. An auxiliary verb, also called a helping verb, is a verb that is used with another verb (or two other verbs) in a verb phrase. The auxiliary verbs (which include be, have, do, and the modal verbs like may, shall, will, can, and must) combine with verbs to do things like show a verb's tense or form a question.\n\nSource: Merriam-Webster https://www.merriam-webster.com  "
             },
             {
               "folded": true,
               "type": "string",
-              "value": ""
+              "value": "Answer: Active\n\nActive! The subject (I) performs the action (ate). When a sentence is written in the active voice, the subject performs the action; in the passive voice, the subject receives the action. \n\nSource: City University of New York https://www.hunter.cuny.edu "
             },
             {
               "folded": true,
               "type": "string",
-              "value": ""
+              "value": "Answer: Passive\n\nPassive! The subject (money) receives the action (was stolen). When a sentence is written in the active voice, the subject performs the action; in the passive voice, the subject receives the action. \n\nSource: City University of New York https://www.hunter.cuny.edu "
             },
             {
               "folded": true,
               "type": "string",
-              "value": ""
+              "value": "Answer: Active\n\nActive! The subject (I) performs the action (washed). When a sentence is written in the active voice, the subject performs the action; in the passive voice, the subject receives the action. \n\nSource: City University of New York https://www.hunter.cuny.edu"
             },
             {
               "folded": true,
               "type": "string",
-              "value": ""
+              "value": "Answer: Adjective\n\nBeautiful is an adjective. An adjective is a word that modifies or describes a noun or pronoun. Adjectives can be used to describe the qualities of someone or something independently or in comparison to something else. \n\nSource: https://www.scribbr.com"
             },
             {
               "folded": true,
               "type": "string",
-              "value": ""
+              "value": "Answer: Pronoun\n \nShe is a pronoun. A pronoun is a word that stands in for a noun, often to avoid the need to repeat the same noun over and over. Like nouns, pronouns can refer to people, things, concepts, and places. Most sentences contain at least one noun or pronoun.\n\nSource: https://www.scribbr.com"
             },
             {
               "type": "string",
-              "value": ""
+              "value": "Answer: Preposition\n\nUnder is a preposition. A preposition is a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man on the platform,” “she arrived after dinner,” “what did you do it for?”.\n\nSource: Oxford Languages\n"
             },
             {
               "folded": true,
               "type": "string",
-              "value": ""
+              "value": "Answer: Adverb\n\nQuickly is an adverb. An adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there).\n\nSource: Oxford Languages"
             },
             {
               "type": "string",
-              "value": ""
+              "value": "Answer: Verb\n\nWork is a verb. A verb is a word that indicates a physical action (e.g., “drive”), a mental action (e.g., “think”), or a state of being (e.g., “exist”). Every sentence contains a verb. Verbs are almost always used along with a noun or pronoun to describe what the noun or pronoun is doing.\n\nSource: https://www.scribbr.com"
             },
             {
               "type": "string",
-              "value": ""
+              "value": "Answer: Noun\n\nUniversity is a noun. A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).\n\nSource: Oxford Languages"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Verb\n\nMet is a verb (past tense of meet). A verb is a word that indicates a physical action (e.g., “drive”), a mental action (e.g., “think”), or a state of being (e.g., “exist”). Every sentence contains a verb. Verbs are almost always used along with a noun or pronoun to describe what the noun or pronoun is doing.\n\nSource: https://www.scribbr.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Preposition\n\nIn this sentence, ‘after’ is a preposition. A preposition is a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man on the platform,” “she arrived after dinner,” “what did you do it for?”.\n\nSource: Oxford Languages"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Speaks\n\nSpeaks is a verb. A verb is a word that indicates a physical action (e.g., “drive”), a mental action (e.g., “think”), or a state of being (e.g., “exist”). Every sentence contains a verb. Verbs are almost always used along with a noun or pronoun to describe what the noun or pronoun is doing.\n\nSource: https://www.scribbr.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Movie\n\nMovie is a noun. A noun is a word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).\n\nSource: Oxford Languages"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: New\n\nNew is an adjective. An adjective is a word that modifies or describes a noun or pronoun. Adjectives can be used to describe the qualities of someone or something independently or in comparison to something else. \n\nSource: https://www.scribbr.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: A Noun\n\nAdjectives tell us more about a noun (or pronoun). An adjective is a word that modifies or describes a noun or pronoun. Adjectives can be used to describe the qualities of someone or something independently or in comparison to something else. \n\nSource: https://www.scribbr.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer A Verb\n\nAn adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there). \n\nSource: Oxford Languages"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: An Adjective\n\nDifficult is an adjective describing the noun test, even if by negation. An adjective is a word that modifies or describes a noun or pronoun. Adjectives can be used to describe the qualities of someone or something independently or in comparison to something else. \n\nSource: https://www.scribbr.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: She\n\nShe is a pronoun (substitute for the noun Olivia). A pronoun is a word that stands in for a noun, often to avoid the need to repeat the same noun over and over. Like nouns, pronouns can refer to people, things, concepts, and places. Most sentences contain at least one noun or pronoun.\n\nSource: https://www.scribbr.com"
             }
           ]
         },
         {
           "folded": true,
-          "name": "q_shuff",
+          "name": "ve_les2",
           "type": "array",
           "children": [
             {
               "folded": true,
-              "type": "number",
-              "value": 1
+              "type": "string",
+              "value": "Answer: Replace\n\nA pronoun can replace a noun that’s already been mentioned or inferred to avoid the need to repeat the same noun over and over. Like nouns, pronouns can refer to people, things, concepts, and places. Most sentences contain at least one noun or pronoun.\n\nSource: https://www.scribbr.com"
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 2
-            },
-            {
-              "type": "number",
-              "value": 3
+              "type": "string",
+              "value": "Answer: to\n\nTo is a preposition. A preposition is a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man (on) the platform,” “she arrived (after) dinner,” “what did you do it (for)?”.\n\nSource: Oxford Languages\n"
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 4
+              "type": "string",
+              "value": "Answer: Ow\n\n‘Ow!’ is an interjection. An interjection is an abrupt remark, made especially as an aside or interruption.\n\nSource: Oxford Languages"
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 5
+              "type": "string",
+              "value": "Answer: Noun\n\nNames of places, things and people are nouns.\n\nSource: https://www.thoughtco.com "
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 6
+              "type": "string",
+              "value": "Answer Noun\n\n'Channels' is a noun in the plural form.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 7
+              "type": "string",
+              "value": "Answer: Pronoun\n\n'Everyone' is a pronoun used to speak about all the people.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 8
+              "type": "string",
+              "value": "Answer: Noun\n\nNames of institutions are nouns.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 9
+              "type": "string",
+              "value": "Answer: Verb\n\n'Has become' is the present perfect tense which is a verb form.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
-              "type": "number",
-              "value": 0
+              "type": "string",
+              "value": "Answer: Interjection\n\n'Hey!' is an interjection used to catch someone's attention.\n\nSource: https://www.thoughtco.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: For\n\nThe word 'for' is used to show a period of time, in the past, present or future. It is followed by a duration of time: for two hours, for five years, etc. \n\nSource: Byju’s https://byjus.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Since\n \nThe word 'since' is used to refer to a time (an action that begun in the past and is still continuing). Since is used with a specific or particular time: since eight AM, since the day I was born, etc.\n\nSource: Byju’s https://byjus.com "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: For\n\nThe word 'for' is used to show a period of time, in the past, present or future. It is followed by a duration of time: for two hours, for five years, etc. \n\nSource: Byju’s https://byjus.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Since\n \nThe word 'since' is used to refer to a time (an action that begun in the past and is still continuing). Since is used with a specific or particular time: since eight AM, since the day I was born, etc.\n\nSource: Byju’s https://byjus.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Until\n\nThe preposition 'until' expresses that one needs to wait to a specific time before something happens.\n\nSource: Source: https://www.thoughtco.com "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: In - On\n\nUse 'in' with countries and months, but 'on' with specific days of the month.\n\nSource: Source: https://www.thoughtco.com "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: In\n\nUse 'in my opinion' to state your preference or opinion.\n\nSource: Source: https://www.thoughtco.com "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: About\n\nIf you'd like to know the topic, ask what something is about.\n\nSource: Source: https://www.thoughtco.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: He\n\n‘He’ is the subject pronoun needed to replace John, the subject in the first sentence. ‘He’ is also the subject in the 2nd sentence. SUBJECT PRONOUNS are used as subjects of sentences. The singular subject pronouns are I, you, she, he, it. The plural subject pronouns are we, you, they.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Him\n\n‘Him’ is the object pronoun needed to replace Bill. ‘Him’ is the object of the verb ‘know’ in the 2nd sentence. OBJECT PRONOUNS are used as the objects of verbs, or as the objects of prepositions. The singular object pronouns are me, you, her, him, it. The plural object pronouns are us, you, them.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "name": "e_les1",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: A Singular Verb\n\nWhen two or more singular nouns or pronouns are connected by or or nor, use a singular verb. The book or the pen is in the drawer.\n\nSource: Purdue University https://owl.purdue.edu"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Both\nIn both sentences, the verb belongs agrees with its subject, box. Don't let the prepositional phrase in the second sentence fool you into thinking that ornaments is the subject. It's simply the object of the preposition of and does not affect the agreement of subject and verb.\n\nPrepositional phrases (as well as adjective clauses, appositives, and participle phrases) often come between a subject and a verb. So to make sure that a verb agrees with its subject and not with a word in the phrase or clause, mentally cross out the interrupting group of words:\n\nOne (of my sister's friends) is a pilot.\n\nSource: https://www.thoughtco.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Both\n\nIn both sentences, the verb agrees with its subject (people, are; man, is). Don't let the prepositional phrases fool you into thinking that explosion and unicorns are the subject. \n\nPrepositional phrases (as well as adjective clauses, appositives, and participle phrases) often come between a subject and a verb. So to make sure that a verb agrees with its subject and not with a word in the phrase or clause, mentally cross out the interrupting group of words:\n\nOne (of my sister's friends) is a pilot.\n\nSource: https://www.thoughtco.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Both\n\nBoth sentences are correct.\nNews is a noncount noun and takes a singular verb. \nFields of study that end in -ics require singular verbs.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen\n"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: 1 only\n\nOnly sentence 1 is correct. Sentence 2 should be: Two and two is four.\nArithmetic expressions require singular verbs.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: A subject and a verb\n\nAn independent clause is a group of words that contains a subject and verb and expresses a complete thought.\n\nSource: Purdue University https://owl.purdue.edu"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer:  Two or more independent clauses\n\nA compound sentence joins two or more sentences that have related ideas of equal importance. The two sentences go together. Each sentence or independent clause must still have a subject and a verb. For example: She wanted spinach salad; he wanted a hamburger.\n\nSource: https://spcollege.libguides.com "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: The Subject\n\nIn imperative sentences (requests, commands, instructions, warnings), the subject is usually omitted but understood to be the pronoun “you,” or the person or people being addressed. In ‘Please wait to be seated.’, the hidden subject is ‘you’.\n\nSource: The Editor’s Manual https://editorsmanual.com\n \nWhen you make a request, offer advice, issue a command, or give an instruction, you use the imperative mood. Sentences that use the imperative mood are known as imperative sentences. To put it bluntly, an imperative sentence is a sentence that tells somebody to do something.\n\nSource: Grammarly https://www.grammarly.com "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Three words\n\nThis is an imperative sentence:(You) wait a minute! The subject ‘you’ is hidden and the predicate ‘wait a minute’ has three words. The predicate is the part of a sentence or clause containing a verb and stating something about the subject (e.g., went home in ‘John went home’).\n\nSource: Oxford Languages\n\nIn imperative sentences (requests, commands, instructions, warnings), the subject is usually omitted but understood to be the pronoun “you,” or the person or people being addressed. \n\nSource: The Editor’s Manual https://editorsmanual.com\n \nWhen you make a request, offer advice, issue a command, or give an instruction, you use the imperative mood. Sentences that use the imperative mood are known as imperative sentences. To put it bluntly, an imperative sentence is a sentence that tells somebody to do something.\n\nSource: Grammarly https://www.grammarly.com "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Come here!\n\n‘Come here!’ is a full sentence. It is an example of imperative sentences (requests, commands, instructions, warnings). The subject is usually omitted but understood to be the pronoun “you,” or the person or people being addressed. \n\nSource: The Editor’s Manual https://editorsmanual.com"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Subject-Verb-Object\n\nThe order of a basic positive sentence is Subject-Verb-Object. (Negative and question sentences may have a different order.)\n\nSource: English Club"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Compound sentence\n\n‘John went to school today, but James remained at home.’ is a COMPOUND sentence. \nA compound sentence is made up of two independent clauses joined by a coordinating conjunction (for, and, nor, but, or, yet, or so) and a comma or by a semicolon alone. Example: The pirate captain lost her treasure map, but she still found the buried treasure.\n\nSource: The Evergreen State College https://www.evergreen.edu"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Simple sentence\n\n‘We decided to go fishing and camp out at the lake.’ is a SIMPLE SENTENCE. It has only one independent clause. Punctuation note: NO commas separate two compound elements (subject, verb, direct object, indirect object, subjective complement, etc.) in a simple sentence.\n\nSource: Towson University https://www.towson.edu "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Compound sentence\n\n‘I like tea, but Mary likes coffee.’ is a COMPOUND SENTENCE. A compound sentence is made up of two independent clauses (I like tea; Mary likes coffee) joined by a coordinating conjunction (but, for, and, nor, or, yet, or so) and a comma or by a semicolon alone. \nAnother example: The pirate captain lost her treasure map, but she still found the buried treasure.\n\nSource: The Evergreen State College https://www.evergreen.edu"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Antonym\n\nAn antonym is a word opposite in meaning to another (e.g. bad and good ).\n\"the antonym of “inclusion” is “exclusion”\"\n\nSource: Oxford Languages"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: Question tag\n\nWe often use question tags when we expect the listener to agree with our statement. In this case, when the statement is positive, we use a negative question tag.\n\nSource: British Council"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: A transitive verb\n\nA transitive verb is a verb that requires an object to receive the action. \n\nExample: Ana borrowed my pen. The verb \"borrowed\" requires an object (\"my pen\").\n\nSource: Walden University https://academicguides.waldenu.edu "
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: 1, 2, and 3\n\nAll 3 sentences are correct. \nIts has NO APOSTROPHE when it is used as a possessive adjective, as in “A bird uses its wings to fly”.\nIt's has an apostrophe when it is used as a contraction of it is as in “It's cold today.”, and when a contraction of it has when has is part of the present perfect tense as in “It's been in business since 1933.\n\nNOTE: It's vs. Its is a common source of error for writers of English.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "Answer: It\n\nIt (consists) is the correct answer.\n\nFamily is a collective noun. COLLECTIVE NOUNS can be singular or plural. When the speaker wants to refer to a single impersonal unit, a singular pronoun can be used: I looked up some information about the average American family. I found out that it consists of 2.3 children.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
+            }
+          ]
+        },
+        {
+          "name": "e_les2",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "name": "a_les1",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "name": "a_les2",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "name": "d_les1",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "name": "d_les2",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "name": "vd_les1",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "name": "vd_les2",
+          "type": "array",
+          "children": [
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "0"
             }
           ]
         }
@@ -6437,6 +8149,21 @@
           "x": 466,
           "y": 575,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 169,
+          "layer": "feedback",
+          "name": "fb_txt",
+          "persistentUuid": "2f0bb84e-2cf8-4bf3-94db-5fba318b21e6",
+          "width": 1020,
+          "x": 150,
+          "y": 170,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7065,7 +8792,12 @@
                         {
                           "name": "continue",
                           "x": 580,
-                          "y": 360
+                          "y": 500
+                        },
+                        {
+                          "name": "text",
+                          "x": 75,
+                          "y": 80
                         }
                       ],
                       "originPoint": {
@@ -7358,6 +9090,25 @@
             "align": "center",
             "wordWrap": true
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "fb_txt",
+          "tags": "",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "random",
+            "opacity": 255,
+            "fontSize": 20,
+            "visible": true,
+            "color": "0;0;0",
+            "fontFamily": "Arial",
+            "align": "center",
+            "wordWrap": true
+          }
         }
       ],
       "events": [
@@ -7381,16 +9132,6 @@
               "parameters": [
                 "",
                 "\"ans\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ArrayTools::Shuffle"
-              },
-              "parameters": [
-                "",
-                "\"q_shuff\"",
                 ""
               ]
             },
@@ -7552,6 +9293,16 @@
               "parameters": [
                 "count",
                 "\"feedback\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "rand",
+                "=",
+                "RandomInRange(0,18)"
               ]
             }
           ],
@@ -7767,6 +9518,249 @@
                     "t_time",
                     "=",
                     "55"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(ve_ques1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(ve_les1[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(ve_ques2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(ve_les2[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(e_ques1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(e_les1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -8684,6 +10678,33 @@
           "conditions": [
             {
               "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "rand",
+                ">",
+                "18"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "rand",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "SourisSurObjet"
               },
               "parameters": [
@@ -8807,21 +10828,271 @@
           "actions": [
             {
               "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "ques",
-                "=",
-                "SceneVariableLastNumber(e_ques)"
-              ]
-            },
-            {
-              "type": {
                 "value": "ToggleGlobalVariableAsBoolean"
               },
               "parameters": [
                 "lifeline2"
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "rand",
+                "+",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(ve_ques1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(ve_ans1[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(ve_les1[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(ve_ques2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(ve_ans2[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(ve_les2[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(e_ques1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(e_ans1[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(e_les1[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ]
         },
@@ -8908,56 +11179,6 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
-            {
-              "type": {
-                "value": "BitmapText::BitmapTextObject::SetText"
-              },
-              "parameters": [
-                "ques_new",
-                "=",
-                "VariableString(ve_ques1[0])"
-              ]
-            },
-            {
-              "type": {
-                "value": "BitmapText::BitmapTextObject::SetText"
-              },
-              "parameters": [
-                "ans1_new",
-                "=",
-                "VariableString(ve_ans1[0][0])"
-              ]
-            },
-            {
-              "type": {
-                "value": "BitmapText::BitmapTextObject::SetText"
-              },
-              "parameters": [
-                "ans2_new",
-                "=",
-                "VariableString(ve_ans1[0][1])"
-              ]
-            },
-            {
-              "type": {
-                "value": "BitmapText::BitmapTextObject::SetText"
-              },
-              "parameters": [
-                "ans3_new",
-                "=",
-                "VariableString(ve_ans1[0][2])"
-              ]
-            },
-            {
-              "type": {
-                "value": "BitmapText::BitmapTextObject::SetText"
-              },
-              "parameters": [
-                "ans4_new",
-                "=",
-                "VariableString(ve_ans1[0][3])"
-              ]
-            },
             {
               "type": {
                 "value": "MettreXY"
@@ -9064,6 +11285,18 @@
                 "SceneWindowWidth()/2",
                 "=",
                 "SceneWindowHeight()/2"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "fb_txt",
+                "=",
+                "feedback.PointX(\"text\")",
+                "=",
+                "feedback.PointY(\"text\")"
               ]
             }
           ]
@@ -9441,7 +11674,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [
             {
               "defaultSize": true,
@@ -9463,7 +11696,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "feedback",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         }
