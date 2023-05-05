@@ -3422,90 +3422,90 @@
           ]
         },
         {
+          "folded": true,
           "name": "e_ques2",
           "type": "array",
           "children": [
             {
               "type": "string",
-              "value": "0"
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nMy friends and ____ ordered Indian food at the restaurant. I wasn't very hungry at first, but I\nate most of ____."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (Well)?\n\nWell, I don't think I'll be home before 6."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nWhat part of speech (but)?\n\nAndy knocked on the door but nobody answered."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nDifferent parts of speech have different jobs. \n\nWhat do verbs like \"run\" and \"learn\" do?"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\n\"I always study hard before a test.\" In this sentence, \n\nwhich word is an adverb?"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nPrepositions link a _______ to another word or sentence part."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\n\"Can you remember the first time you kissed someone?\n\n Which is a determiner?"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.englishclub.com \n\nConjunctions are used to _______ words, phrases, clauses or sentences."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com\n\nWhat part of speech (recently)?\n\nUnfortunately, they haven't been paying on time recently."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com\n\nWhat part of speech (for)?\n\nI'd like to thank you all for attending today's meeting."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com\n\nWhat part of speech (eccentric)?\n\nTo experience the famous eccentric side of British life, make sure to visit Speakers' Corner in Hyde Park"
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com\n\nWhat part of speech (but)?\n\nNot only are London parks beautiful, but they may be one of the only places you can meet the British."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "From https://www.thoughtco.com \n\nWhat part of speech (will be used to)?\n\nMy aunt will be used to the sun this time next week."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.ecenglish.com \n\nI really care ___ what happens to him."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.ecenglish.com \n\nI heard that he died ___ a heart attack."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.ecenglish.com \n\nPlease apologise to them ___ me."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.ecenglish.com\n\nI saw a car collide ___ a motorbike."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.ecenglish.com \n\nI don't agree ___ banning smoking in bars."
             },
             {
               "type": "string",
-              "value": "0"
+              "value": "from https://www.ecenglish.com \n\nShe has a lot of admiration ___ all that you have done."
             }
           ]
         },
         {
-          "folded": true,
           "name": "a_ques1",
           "type": "array",
           "children": [
@@ -3544,6 +3544,42 @@
             },
             {
               "folded": true,
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
+              "type": "string",
+              "value": "0"
+            },
+            {
               "type": "string",
               "value": "0"
             },
@@ -5126,27 +5162,29 @@
           ]
         },
         {
+          "folded": true,
           "name": "e_ans2",
           "type": "array",
           "children": [
             {
+              "folded": true,
               "type": "array",
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "I… it"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "me… it"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "I… them"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "myself… it"
                 }
               ]
             },
@@ -5156,19 +5194,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "interjection"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "conjunction"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 }
               ]
             },
@@ -5178,19 +5216,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "conjunction"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "preposition"
                 }
               ]
             },
@@ -5200,19 +5238,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "express actions"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "express things"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "tell us more about other verbs"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "express manner of acting"
                 }
               ]
             },
@@ -5222,19 +5260,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "hard"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "study"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "test"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "before"
                 }
               ]
             },
@@ -5244,19 +5282,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 }
               ]
             },
@@ -5266,19 +5304,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "the"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "can"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "someone"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "first"
                 }
               ]
             },
@@ -5288,19 +5326,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": " join"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "replace"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "separate"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "reduce"
                 }
               ]
             },
@@ -5310,19 +5348,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "conjunction"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "interjection"
                 }
               ]
             },
@@ -5332,19 +5370,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "conjunction"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "interjection"
                 }
               ]
             },
@@ -5354,19 +5392,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "noun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "pronoun"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "verb"
                 }
               ]
             },
@@ -5376,19 +5414,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "conjunction"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "preposition"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "interjection"
                 }
               ]
             },
@@ -5398,19 +5436,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "verb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adjective"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "adverb"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "preposition"
                 }
               ]
             },
@@ -5420,19 +5458,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "about"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "at"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "to"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "of"
                 }
               ]
             },
@@ -5442,19 +5480,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "of"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "for"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "about"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "to"
                 }
               ]
             },
@@ -5464,19 +5502,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "for"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "of"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "to"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "by"
                 }
               ]
             },
@@ -5486,19 +5524,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "with"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "to"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "against"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "on"
                 }
               ]
             },
@@ -5508,19 +5546,19 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "with"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "for"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "in"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "about"
                 }
               ]
             },
@@ -5530,29 +5568,225 @@
               "children": [
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "for"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "on"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "from"
                 },
                 {
                   "type": "string",
-                  "value": "0"
+                  "value": "of"
                 }
               ]
             }
           ]
         },
         {
-          "folded": true,
           "name": "a_ans1",
           "type": "array",
           "children": [
+            {
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "array",
+              "children": [
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                },
+                {
+                  "type": "string",
+                  "value": "0"
+                }
+              ]
+            },
             {
               "folded": true,
               "type": "array",
@@ -7214,108 +7448,108 @@
           ]
         },
         {
+          "folded": true,
           "name": "e_les2",
           "type": "array",
           "children": [
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: I… it\n\nMy friends and I ordered Indian food at the restaurant. I wasn't very hungry at first, but I\nate most of it.\n\nI is the subject pronoun needed in the first sentence. SUBJECT PRONOUNS are used as subjects of sentences. \nIt is the object pronoun needed to replace food in the second sentence. OBJECT PRONOUNS are used as the objects of verbs, or as the objects of prepositions.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Interjection\n\nWell in this example is an interjection. An interjection is an abrupt remark, made especially as an aside or interruption.\n\nSource: Oxford Languages"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Conjunction\n\nBut is a conjunction (coordinating). A conjunction is a word used to connect clauses or sentences or to coordinate words in the same clause (e.g. and, but, if ).\n\nSource: Oxford Languages"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Express actions\n\nVerbs express actions. A verb is a word that indicates a physical action (e.g., “drive”), a mental action (e.g., “think”), or a state of being (e.g., “exist”). Every sentence contains a verb. Verbs are almost always used along with a noun or pronoun to describe what the noun or pronoun is doing.\n\nSource: https://www.scribbr.com "
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: hard\n\nAmong the choices, ‘hard’ is the adverb, expressing the manner of studying. Always is also an adverb (of frequency). An adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there). \n\nSource: Oxford Languages"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Noun\n\nA preposition is a word governing, and usually preceding, a noun or pronoun and expressing a relation to another word or element in the clause, as in “the man on the platform,” “she arrived after dinner,” “what did you do it for?”.\n\nSource: Oxford Languages"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: The\n\nThe is a determiner. A determiner is a modifying word that determines the kind of reference a noun or noun group has, for example: a, the, every.\n\nSource: Oxford Languages"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer:  Join\n\nA conjunction is a word used to join/connect clauses or sentences or to coordinate words in the same clause (e.g. and, but, if).\n\nSource: Oxford Languages"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Adverb\n\n'Recently' is used as an adverb to state that something happened in the recent past.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Preposition\n\n'For' is a preposition before a noun or noun phrase. It is a conjunction if placed before a clause.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Adjective\n\nEccentric is an adjective (of a person or their behavior: unconventional and slightly strange) describing the noun side. Adjectives are placed before nouns to describe them.\n\nSource: https://www.thoughtco.com "
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Conjunction\n\n'But' is a coordinating conjunction used to join two simple sentences.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Verb\n\n'Will be used to' is the future simple form of the verb.\n\nSource: https://www.thoughtco.com "
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: About\n\ncare about (someone or something)\n1. To have a strong feeling of love or affection for someone or something; to cherish someone or something. Can be used in the negative to mean the opposite.\n\nThere is nothing I care about more than my children.\n\nSource: https://idioms.thefreedictionary.com "
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: Of\n\nThe meaning of DIE OF is to die because of (something) —sometimes used figuratively to say something causes a lot of discomfort, distress, etc.\n\nSource: Merriam-Webster\n"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: For\n\nThe meaning of APOLOGIZE FOR is to offer a defense or excuse or admission of fault for (something)—used in negative statements.\n\nSource: Merriam-Webster"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: With\n\nIf a vehicle collides with another vehicle or a person, it hits something or someone that is traveling in a different direction.\n\nSource: Collins Dictionary"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: With\n\nAgree with means to have the same opinion as another person or to approve of something.\n\nSource: Termium https://www.btb.termiumplus.gc.ca "
             },
             {
               "folded": true,
               "type": "string",
-              "value": "0"
+              "value": "Answer: For\n\nThe meaning of ADMIRATION is a feeling of respect and approval. Ex: I have great admiration for her courage. We were filled with admiration for him.\n\nSource: Merriam-Webster"
             }
           ]
         },
         {
-          "folded": true,
           "name": "a_les1",
           "type": "array",
           "children": [
@@ -8792,7 +9026,7 @@
                         {
                           "name": "continue",
                           "x": 580,
-                          "y": 500
+                          "y": 470
                         },
                         {
                           "name": "text",
@@ -9546,6 +9780,17 @@
                     "=",
                     "3"
                   ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "4"
+                  ]
                 }
               ],
               "actions": [
@@ -9761,6 +10006,83 @@
                     "fb_txt",
                     "=",
                     "VariableString(e_les1[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "4"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(e_ques2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(e_les2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -10870,6 +11192,17 @@
                     "=",
                     "3"
                   ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "4"
+                  ]
                 }
               ],
               "actions": [
@@ -11085,6 +11418,83 @@
                     "fb_txt",
                     "=",
                     "VariableString(e_les1[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "4"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ques_new",
+                    "=",
+                    "VariableString(e_ques2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans1_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans2_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans3_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BitmapText::BitmapTextObject::SetText"
+                  },
+                  "parameters": [
+                    "ans4_new",
+                    "=",
+                    "VariableString(e_ans2[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(e_les2[GlobalVariable(rand)])"
                   ]
                 }
               ]
