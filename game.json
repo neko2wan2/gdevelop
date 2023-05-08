@@ -498,15 +498,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "20230508_194413_0000.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "20230508_194413_0000.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Square Blue Toggle_Off.png",
         "kind": "image",
         "metadata": "",
@@ -533,10 +524,19 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "20230508_194413_0001.png",
+        "file": "GI.png",
         "kind": "image",
         "metadata": "",
-        "name": "20230508_194413_0001.png",
+        "name": "GI.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "credits.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "credits.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -1957,7 +1957,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "20230508_194413_0000.png",
+                      "image": "GI.png",
                       "points": [
                         {
                           "name": "btn",
@@ -2113,7 +2113,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "20230508_194413_0001.png",
+                      "image": "credits.png",
                       "points": [
                         {
                           "name": "btn",
