@@ -1450,7 +1450,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5117784035210174,
+        "zoomFactor": 0.4481978045410356,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1563,12 +1563,12 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 50,
           "layer": "instruc",
           "name": "SquareBlueToggle",
           "persistentUuid": "ef349e08-4d42-4ec4-ad27-2d9a14359a70",
-          "width": 0,
+          "width": 50,
           "x": 936,
           "y": 668,
           "zOrder": 2,
@@ -1966,8 +1966,8 @@
                         },
                         {
                           "name": "toggle",
-                          "x": 140,
-                          "y": 50
+                          "x": 120,
+                          "y": 25
                         },
                         {
                           "name": "label",
@@ -2074,7 +2074,7 @@
         {
           "assetStoreId": "",
           "bold": true,
-          "italic": false,
+          "italic": true,
           "name": "label",
           "smoothed": true,
           "tags": "",
@@ -2086,7 +2086,7 @@
           "string": "Don't show again while playing",
           "font": "",
           "textAlignment": "center",
-          "characterSize": 20,
+          "characterSize": 19,
           "color": {
             "b": 0,
             "g": 0,
@@ -2860,7 +2860,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "instruc",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
@@ -2871,7 +2871,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "cred",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         }
