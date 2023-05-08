@@ -10,7 +10,7 @@
     "adaptGameResolutionAtRuntime": true,
     "folderProject": false,
     "orientation": "landscape",
-    "packageName": "com.example.gamename",
+    "packageName": "ISUFST.thesis.GrammarGame",
     "pixelsRounding": false,
     "projectUuid": "c8eb3f94-5346-47fd-bdf6-589c8b371913",
     "scaleMode": "linear",
@@ -18,8 +18,8 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "thesis",
-    "description": "",
+    "name": "GG!",
+    "description": "Grammar Game! \n\nA Technology-Enhanced Learning Material\n\nby: Edmer D. Bernardo\n\nISUFST Main Campus\n\nc 2023",
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
@@ -3348,19 +3348,19 @@
             },
             {
               "type": "string",
-              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. This box belongs in the attic.\n2. This box of ornaments belongs in the attic."
+              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. This box belongs in the attic. 2. This box of ornaments belongs in the attic."
             },
             {
               "type": "string",
-              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. The people who survived the explosion are in a shelter.\n2. A man chasing unicorns is on the terrace.\n"
+              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. The people who survived the explosion are in a shelter. 2. A man chasing unicorns is on the terrace.\n"
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The news is interesting.\n2. Mathematics is easy for her."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The news is interesting. 2. Mathematics is easy for her."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Two and two equals four.\n2. Two and two are four.\n"
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Two and two equals four. 2. Two and two are four.\n"
             },
             {
               "type": "string",
@@ -3413,7 +3413,7 @@
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich is correct?\n\n1. A bird uses its wings to fly.\n2. It's cold today.\n3. Harbor Inn is my favorite old hotel. It's been in business since 1933."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich is correct?\n\n1. A bird uses its wings to fly. 2. It's cold today. 3. Harbor Inn is my favorite old hotel. It's been in business since 1933."
             },
             {
               "type": "string",
@@ -3513,48 +3513,48 @@
             {
               "folded": true,
               "type": "string",
-              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. Nobody claims to be perfect.\n2. Everybody play the fool sometimes."
+              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. Nobody claims to be perfect. 2. Everybody play the fool sometimes."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. Everybody plays the fool sometimes.\n2. Each of the divers have an oxygen tank."
+              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. Everybody plays the fool sometimes. 2. Each of the divers have an oxygen tank."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From https://www.thoughtco.com   \n\nWhich statement has subject-verb agreement?\n\n1. Dana Barrett have ghosts in her bedroom.\n2. Where have Egon parked the car?"
+              "value": "From https://www.thoughtco.com   \n\nWhich statement has subject-verb agreement?\n\n1. Dana Barrett have ghosts in her bedroom. 2. Where have Egon parked the car?"
             },
             {
               "type": "string",
-              "value": "From https://www.thoughtco.com  \n\nWhich statement has subject-verb agreement?\n\n1. Dana Barrett has ghosts in her bedroom.\n2. The Ghostbusters have a new client."
-            },
-            {
-              "folded": true,
-              "type": "string",
-              "value": "From https://www.thoughtco.com  \n\nWhich statement has subject-verb agreement?\n\n1. Gus does the housework.\n2. Gus and Martha do the chores together."
+              "value": "From https://www.thoughtco.com  \n\nWhich statement has subject-verb agreement?\n\n1. Dana Barrett has ghosts in her bedroom. 2. The Ghostbusters have a new client."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From https://www.thoughtco.com  \n\nWhich statement has subject-verb agreement?\n\n1. There are four players on each team. \n2. There is a tournament at the end of the season."
-            },
-            {
-              "type": "string",
-              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. Most students take all of their classes in the morning. \n2. Nobody take classes after 2:00."
+              "value": "From https://www.thoughtco.com  \n\nWhich statement has subject-verb agreement?\n\n1. Gus does the housework. 2. Gus and Martha do the chores together."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Eight hours of sleep are enough.\n2. Ten dollars are too much to pay."
+              "value": "From https://www.thoughtco.com  \n\nWhich statement has subject-verb agreement?\n\n1. There are four players on each team.  2. There is a tournament at the end of the season."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Five thousand miles is too far to travel.\n2. Ten thousand dollars is too much to pay."
+              "value": "From https://www.thoughtco.com \n\nWhich statement has subject-verb agreement?\n\n1. Most students take all of their classes in the morning. 2. Nobody take classes after 2:00."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Eight hours of sleep are enough. 2. Ten dollars are too much to pay."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Five kilometers is too far to walk.\n2. Ten million pesos is too much to pay."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Five thousand miles is too far to travel. 2. Ten thousand dollars is too much to pay."
+            },
+            {
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Five kilometers is too far to walk. 2. Ten million pesos is too much to pay."
             },
             {
               "type": "string",
@@ -3643,7 +3643,7 @@
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement is a clause?\n\n1. because the poor have many problems\n2. on a rainy day\n3. her grandparents in Turkey\n4. he went running in the park"
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement is a clause?\n\n1. because the poor have many problems 2. on a rainy day 3. her grandparents in Turkey 4. he went running in the park"
             },
             {
               "type": "string",
@@ -3696,48 +3696,48 @@
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Every man, woman, and child need love.\n2. Each book and magazine is listed in the bibliography."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Every man, woman, and child need love. 2. Each book and magazine is listed in the bibliography."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. That book on political parties is interesting. \n2. The ideas in that book is interesting."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. That book on political parties is interesting. 2. The ideas in that book is interesting."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Watching old movies are fun. \n2. Watching an old movie is fun."
-            },
-            {
-              "folded": true,
-              "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nIn American English, which statement has subject-verb agreement?\n\n1. The audience is clapping loudly.\n2. The team practices at noon."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Watching old movies are fun. 2. Watching an old movie is fun."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Some of the book is good. \n2. Some of the books are good."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nIn American English, which statement has subject-verb agreement?\n\n1. The audience is clapping loudly. 2. The team practices at noon."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. A lot of the equipment are new.\n2. A lot of the printers are new."
-            },
-            {
-              "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Most of our homework looks easy.\n2. Most of our assignments look easy."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Some of the book is good. 2. Some of the books are good."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The number of students in the class are fifteen.\n2. A number of students are late or absent today."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. A lot of the equipment are new. 2. A lot of the printers are new."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The Philippines consist of more than 7, 000 islands.\n2. The United Nations has its headquarters in New York City."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Most of our homework looks easy. 2. Most of our assignments look easy."
+            },
+            {
+              "folded": true,
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The number of students in the class are fifteen. 2. A number of students are late or absent today."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Those people are from Canada.\n2. The police have been called."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The Philippines consist of more than 7, 000 islands. 2. The United Nations has its headquarters in New York City."
+            },
+            {
+              "type": "string",
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Those people are from Canada. 2. The police have been called."
             },
             {
               "type": "string",
@@ -3827,7 +3827,7 @@
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWe don’t know where Sue lives is a complete sentence. It has\n\n• a main subject (We).\n• a main verb (know).\n• a dependent clause (where Sue lives).\n\nThe dependent clause - where Sue lives - is also a/an _____ clause."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWe don’t know where Sue lives is a complete sentence. It has\n\n• a main subject (We). • a main verb (know). • a dependent clause (where Sue lives).\n\nThe dependent clause - where Sue lives - is also a/an _____ clause."
             },
             {
               "type": "string",
@@ -3839,23 +3839,23 @@
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \n\"I work at night.\" \n\na. He said he worked at night.\nb. He said he work at night.\nc. He said he works at night."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \n\"I work at night.\" \n\na. He said he worked at night. b. He said he work at night. c. He said he works at night."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \"I am working.\"\n\na. He said he is working. \nb. He said he was working.\nc. He said he worked."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \"I am working.\"\n\na. He said he is working.  b. He said he was working. c. He said he worked."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. The man whom I saw was Mr. Jones. \nb. The man that I saw was Mr. Jones.\nc. The man I saw was Mr. Jones."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. The man whom I saw was Mr. Jones. b. The man that I saw was Mr. Jones. c. The man I saw was Mr. Jones."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. The man that I saw was Mr. Jones. \nb. The man that I saw him was Mr. Jones\nc. The man I saw him was Mr. Jones."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. The man that I saw was Mr. Jones. b. The man that I saw him was Mr. Jones c. The man I saw him was Mr. Jones."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. She is the woman about whom I told you.\nb. She is the woman who(m) I told you about.\nc. She is the woman that I told you about.\nd. She is the woman I told you about."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. She is the woman about whom I told you. b. She is the woman who(m) I told you about. c. She is the woman that I told you about. d. She is the woman I told you about."
             },
             {
               "type": "string",
@@ -3871,20 +3871,20 @@
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Two-thirds of the money belongs to me.\n2. Two-thirds of the coins belongs to me."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Two-thirds of the money belongs to me. 2. Two-thirds of the coins belongs to me."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Twenty percent of my income go for rent.\n2. Twenty percent of my earnings go for rent."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Twenty percent of my income go for rent. 2. Twenty percent of my earnings go for rent."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Cattle are domestic animals.\n2. Fish live under water."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. Cattle are domestic animals. 2. Fish live under water."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The poor have many problems.\n2. The rich gets richer."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich statement has subject-verb agreement?\n\n1. The poor have many problems. 2. The rich gets richer."
             },
             {
               "type": "string",
@@ -3913,27 +3913,27 @@
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reply is correct: Where does Brad live?\n\na. I don’t know where he lives.\nb. I don’t know where does he live.\nc. I don’t know where is Brad."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reply is correct: Where does Brad live?\n\na. I don’t know where he lives. b. I don’t know where does he live. c. I don’t know where is Brad."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reply is correct: Who are those men?\n\na. I don’t know who are those men.\nb. I don’t know who those men are.\nc. I don’t know who are they."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reply is correct: Who are those men?\n\na. I don’t know who are those men. b. I don’t know who those men are. c. I don’t know who are they."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reply is correct: How old is your friend Paul?\n\na. I don’t know how old is Paul.\nb. I don’t know how old is him.\nc. I don’t know how old Paul is."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reply is correct: How old is your friend Paul?\n\na. I don’t know how old is Paul. b. I don’t know how old is him. c. I don’t know how old Paul is."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich is correct?\n\na. I don’t know what should I do.\nb. I don’t know what I should do.\nc. I don’t know what to do."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich is correct?\n\na. I don’t know what should I do. b. I don’t know what I should do. c. I don’t know what to do."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \"I have worked.\"\n\na. He said he have worked. \nb. He said he has worked.\nc. He said he had worked."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \"I have worked.\"\n\na. He said he have worked. b. He said he has worked. c. He said he had worked."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \"I must go.\"\n\na. He said he must go. \nb. He said he might go.\nc. He said he had to go."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich reported speech (later reporting) is correct: \"I must go.\"\n\na. He said he must go. b. He said he might go. c. He said he had to go."
             },
             {
               "type": "string",
@@ -3950,7 +3950,6 @@
           ]
         },
         {
-          "folded": true,
           "name": "vd_ques2",
           "type": "array",
           "children": [
@@ -3961,16 +3960,16 @@
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. She is the woman about who I told you.\nb. The music to that we listened last night was good."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nWhich sentence is correct?\n\na. She is the woman about who I told you. b. The music to that we listened last night was good."
             },
             {
               "folded": true,
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nHe gave several reasons. Only a few of the reasons were valid.\n\nWhich sentence correctly uses an adjective clause in combining the two sentences above?\n\n1. He gave several reasons, only a few of them were valid.\n2. He gave several reasons, only a few of those were valid.\n3. He gave several reasons, only a few of which were valid."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nHe gave several reasons. Only a few of the reasons were valid.\n\nWhich sentence correctly uses an adjective clause in combining the two sentences above?\n\n1. He gave several reasons, only a few of them were valid. 2. He gave several reasons, only a few of those were valid. 3. He gave several reasons, only a few of which were valid."
             },
             {
               "type": "string",
-              "value": "From Understanding and Using English Grammar 5th Edition\n\nThe teachers discussed Jim. One of Jim’s problems was poor study habits.\n\nWhich sentence correctly uses an adjective clause in combining the two sentences above?\n\n1. The teachers discussed Jim, one of his problems was poor study habits.\n2. The teachers discussed Jim, one of whose problems was poor study habits.\n3. The teachers discussed Jim, his problems one of which was poor study habits."
+              "value": "From Understanding and Using English Grammar 5th Edition\n\nThe teachers discussed Jim. One of Jim’s problems was poor study habits.\n\nWhich sentence correctly uses an adjective clause in combining the two sentences above?\n\n1. The teachers discussed Jim, one of his problems was poor study habits. 2. The teachers discussed Jim, one of whose problems was poor study habits. 3. The teachers discussed Jim, his problems one of which was poor study habits."
             },
             {
               "type": "string",
@@ -9473,81 +9472,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 152,
-          "layer": "",
-          "name": "ques_new",
-          "persistentUuid": "e0d82b49-0a70-43b0-99b8-de6c46762a17",
-          "width": 501,
-          "x": 403,
-          "y": 153,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 40,
-          "layer": "",
-          "name": "ans1_new",
-          "persistentUuid": "677499cf-46a2-4910-9862-4153d43a11c7",
-          "width": 200,
-          "x": 163,
-          "y": 765,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 40,
-          "layer": "",
-          "name": "ans2_new",
-          "persistentUuid": "4988de54-7f3d-4aa0-bab0-9124c56c3e50",
-          "width": 200,
-          "x": 629,
-          "y": 779,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 40,
-          "layer": "",
-          "name": "ans3_new",
-          "persistentUuid": "92b42f61-f2da-4d4c-bef8-ab86242efbe6",
-          "width": 200,
-          "x": 1299,
-          "y": 412,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 40,
-          "layer": "",
-          "name": "ans4_new",
-          "persistentUuid": "94c20b8b-d7d2-4dbe-ac6f-286a879fe749",
-          "width": 200,
-          "x": 1291,
-          "y": 650,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -9572,6 +9496,81 @@
           "x": 81,
           "y": 170,
           "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 140,
+          "layer": "",
+          "name": "quesf_new",
+          "persistentUuid": "ff8d0a6a-abf8-4491-9344-59e388b90ab7",
+          "width": 1105,
+          "x": 88,
+          "y": 157,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 29,
+          "layer": "",
+          "name": "ans3",
+          "persistentUuid": "66b1f68a-5c6b-4ef5-90cb-779bc26f5047",
+          "width": 545,
+          "x": 1389,
+          "y": 415,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 29,
+          "layer": "",
+          "name": "ans4",
+          "persistentUuid": "49b5a21b-fd2f-4d38-9724-30553d1a39bc",
+          "width": 545,
+          "x": 1384,
+          "y": 523,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 29,
+          "layer": "",
+          "name": "ans1",
+          "persistentUuid": "c4f2f6d7-c781-4e8d-a45e-2dc9b3158c2a",
+          "width": 545,
+          "x": 1410,
+          "y": 627,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 29,
+          "layer": "",
+          "name": "ans2",
+          "persistentUuid": "81ecd197-1a33-46d8-ae89-73c6f02c7e51",
+          "width": 545,
+          "x": 511,
+          "y": 794,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9708,8 +9707,8 @@
                       "points": [
                         {
                           "name": "ques",
-                          "x": 400,
-                          "y": 15
+                          "x": 30,
+                          "y": 20
                         }
                       ],
                       "originPoint": {
@@ -9952,13 +9951,51 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
+            "text": "answer 3",
             "opacity": 255,
-            "fontSize": 20,
+            "fontSize": 17,
             "visible": true,
-            "color": "0;0;0",
+            "color": "255;255;255",
             "fontFamily": "Arial",
-            "align": "center",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans2",
+          "tags": "",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "answer 3",
+            "opacity": 255,
+            "fontSize": 17,
+            "visible": true,
+            "color": "255;255;255",
+            "fontFamily": "Arial",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "ans1",
+          "tags": "",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "answer 3",
+            "opacity": 255,
+            "fontSize": 17,
+            "visible": true,
+            "color": "255;255;255",
+            "fontFamily": "Arial",
+            "align": "left",
             "wordWrap": true
           }
         },
@@ -9971,13 +10008,13 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
+            "text": "answer4",
             "opacity": 255,
-            "fontSize": 20,
+            "fontSize": 17,
             "visible": true,
-            "color": "0;0;0",
+            "color": "255;255;255",
             "fontFamily": "Arial",
-            "align": "center",
+            "align": "left",
             "wordWrap": true
           }
         },
@@ -10005,8 +10042,8 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 190,
-                          "y": 10
+                          "x": 20,
+                          "y": 15
                         }
                       ],
                       "originPoint": {
@@ -10052,8 +10089,8 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 190,
-                          "y": 10
+                          "x": 20,
+                          "y": 15
                         }
                       ],
                       "originPoint": {
@@ -10099,8 +10136,8 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 190,
-                          "y": 10
+                          "x": 20,
+                          "y": 15
                         }
                       ],
                       "originPoint": {
@@ -10146,8 +10183,8 @@
                       "points": [
                         {
                           "name": "ans",
-                          "x": 190,
-                          "y": 10
+                          "x": 20,
+                          "y": 15
                         }
                       ],
                       "originPoint": {
@@ -10381,106 +10418,6 @@
         },
         {
           "assetStoreId": "",
-          "name": "ques_new",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
-            "opacity": 255,
-            "scale": 1,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "",
-            "textureAtlasResourceName": "",
-            "align": "center",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "ans1_new",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
-            "opacity": 255,
-            "scale": 1,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "",
-            "textureAtlasResourceName": "",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "ans2_new",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
-            "opacity": 255,
-            "scale": 1,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "",
-            "textureAtlasResourceName": "",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "ans3_new",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
-            "opacity": 255,
-            "scale": 1,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "",
-            "textureAtlasResourceName": "",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "ans4_new",
-          "tags": "",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
-            "opacity": 255,
-            "scale": 1,
-            "fontSize": 20,
-            "tint": "255;255;255",
-            "bitmapFontResourceName": "",
-            "textureAtlasResourceName": "",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
           "name": "count",
           "tags": "",
           "type": "BitmapText::BitmapTextObject",
@@ -10510,11 +10447,30 @@
           "content": {
             "text": "random",
             "opacity": 255,
-            "fontSize": 20,
+            "fontSize": 19,
             "visible": true,
             "color": "0;0;0",
             "fontFamily": "Arial",
-            "align": "center",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "quesf_new",
+          "tags": "",
+          "type": "BBText::BBText",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Question",
+            "opacity": 255,
+            "fontSize": 19,
+            "visible": true,
+            "color": "255;255;255",
+            "fontFamily": "Arial",
+            "align": "left",
             "wordWrap": true
           }
         }
@@ -10947,50 +10903,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(ve_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -11003,6 +10949,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(ve_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(ve_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11024,50 +10980,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(ve_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -11080,6 +11026,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(ve_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(ve_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11101,50 +11057,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(e_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -11157,6 +11103,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(e_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(e_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11178,50 +11134,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(e_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -11234,6 +11180,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(e_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(e_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11255,50 +11211,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(a_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -11311,6 +11257,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(a_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(a_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11332,50 +11288,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(a_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -11388,6 +11334,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(a_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(a_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11409,50 +11365,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(d_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -11465,6 +11411,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(d_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(d_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11486,50 +11442,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(d_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -11542,6 +11488,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(d_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(d_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -11563,50 +11519,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(vd_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -11619,6 +11565,93 @@
                     "fb_txt",
                     "=",
                     "VariableString(vd_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(vd_ques1[GlobalVariable(rand)])"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "level",
+                    "=",
+                    "10"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "ans1",
+                    "=",
+                    "VariableString(vd_ans2[GlobalVariable(rand)][0])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "ans2",
+                    "=",
+                    "VariableString(vd_ans2[GlobalVariable(rand)][1])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "ans3",
+                    "=",
+                    "VariableString(vd_ans2[GlobalVariable(rand)][2])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "ans4",
+                    "=",
+                    "VariableString(vd_ans2[GlobalVariable(rand)][3])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "fb_txt",
+                    "=",
+                    "VariableString(vd_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(vd_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -12628,24 +12661,6 @@
               "parameters": [
                 "lifeline1"
               ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ans2_new",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "ans3_new",
-                ""
-              ]
             }
           ]
         },
@@ -12726,50 +12741,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(ve_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(ve_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -12782,6 +12787,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(ve_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(ve_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -12803,50 +12818,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(ve_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(ve_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -12859,6 +12864,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(ve_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(ve_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -12880,50 +12895,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(e_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(e_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -12936,6 +12941,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(e_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(e_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -12957,50 +12972,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(e_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(e_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -13013,6 +13018,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(e_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(e_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -13034,50 +13049,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(a_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(a_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -13090,6 +13095,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(a_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(a_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -13111,50 +13126,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(a_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(a_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -13167,6 +13172,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(a_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(a_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -13188,50 +13203,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(d_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(d_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -13244,6 +13249,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(d_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(d_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -13265,50 +13280,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(d_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(d_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -13321,6 +13326,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(d_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(d_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -13342,50 +13357,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(vd_ques1[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(vd_ans1[GlobalVariable(rand)][3])"
                   ]
@@ -13398,6 +13403,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(vd_les1[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(vd_ques1[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -13419,50 +13434,40 @@
               "actions": [
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ques_new",
-                    "=",
-                    "VariableString(vd_ques2[GlobalVariable(rand)])"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
-                  },
-                  "parameters": [
-                    "ans1_new",
+                    "ans1",
                     "=",
                     "VariableString(vd_ans2[GlobalVariable(rand)][0])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans2_new",
+                    "ans2",
                     "=",
                     "VariableString(vd_ans2[GlobalVariable(rand)][1])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans3_new",
+                    "ans3",
                     "=",
                     "VariableString(vd_ans2[GlobalVariable(rand)][2])"
                   ]
                 },
                 {
                   "type": {
-                    "value": "BitmapText::BitmapTextObject::SetText"
+                    "value": "BBText::SetBBText"
                   },
                   "parameters": [
-                    "ans4_new",
+                    "ans4",
                     "=",
                     "VariableString(vd_ans2[GlobalVariable(rand)][3])"
                   ]
@@ -13475,6 +13480,16 @@
                     "fb_txt",
                     "=",
                     "VariableString(vd_les2[GlobalVariable(rand)])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BBText::SetBBText"
+                  },
+                  "parameters": [
+                    "quesf_new",
+                    "=",
+                    "VariableString(vd_ques2[GlobalVariable(rand)])"
                   ]
                 }
               ]
@@ -13574,7 +13589,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ques_new",
+                "quesf_new",
                 "=",
                 "ques.PointX(\"ques\")",
                 "=",
@@ -13586,7 +13601,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans1_new",
+                "ans1",
                 "=",
                 "ansf_1.PointX(\"ans\")",
                 "=",
@@ -13598,7 +13613,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans2_new",
+                "ans2",
                 "=",
                 "ansf_2.PointX(\"ans\")",
                 "=",
@@ -13610,7 +13625,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans3_new",
+                "ans3",
                 "=",
                 "ansf_3.PointX(\"ans\")",
                 "=",
@@ -13622,7 +13637,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "ans4_new",
+                "ans4",
                 "=",
                 "ansf_4.PointX(\"ans\")",
                 "=",
@@ -14064,7 +14079,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [
             {
               "defaultSize": true,
@@ -14086,7 +14101,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "feedback",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         }
