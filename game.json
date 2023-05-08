@@ -1620,6 +1620,24 @@
                 "lifeline2",
                 "True"
               ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"instruc\""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"cred\""
+              ]
             }
           ]
         },
@@ -1648,12 +1666,93 @@
             },
             {
               "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"instruc\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"cred\""
+              ]
+            },
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"instruc\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Start_btn",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"instruc\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "level",
+                "=",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -1663,15 +1762,118 @@
                 "\"level\"",
                 "yes"
               ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Start_btn",
+                "",
+                "",
+                ""
+              ]
             },
             {
               "type": {
-                "value": "ModVarGlobal"
+                "value": "MouseButtonReleased"
               },
               "parameters": [
-                "level",
-                "=",
-                "1"
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"instruc\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"cred\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"cred\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Start_btn",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"cred\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"cred\""
               ]
             }
           ]
@@ -1813,6 +2015,28 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 19,
+          "ambientLightColorG": 6069792,
+          "ambientLightColorR": 11179824,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "instruc",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 83886080,
+          "ambientLightColorG": 6069792,
+          "ambientLightColorR": 11179824,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "cred",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
@@ -3950,6 +4174,7 @@
           ]
         },
         {
+          "folded": true,
           "name": "vd_ques2",
           "type": "array",
           "children": [
@@ -8824,7 +9049,6 @@
           ]
         },
         {
-          "folded": true,
           "name": "a_les2",
           "type": "array",
           "children": [
@@ -8881,12 +9105,12 @@
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: We don’t know\n\n‘We don’t know’ is the independent clause in the sentence ‘We don't know where Sue lives.’  \nClauses can be independent or dependent.\n\nAn INDEPENDENT CLAUSE\n• contains the main subject and verb.\n• is the main clause of the sentence.\n• may be a statement or a question.\n• can stand alone\n\nA DEPENDENT CLAUSE\n• is not a complete sentence.\n• cannot stand alone.\n• must be connected to a main clause.\n\nWe don’t know where Sue lives is a complete sentence. It has\n• a main subject (We).\n• a main verb (know).\n• a dependent clause (where Sue lives).\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
+              "value": "Answer: We don’t know\n\n‘We don’t know’ is the independent clause in the sentence ‘We don't know where Sue lives.’  \nClauses can be independent or dependent.\n\nAn INDEPENDENT CLAUSE\n• contains the main subject and verb.\n• is the main clause of the sentence.\n• may be a statement or a question.\n• can stand alone\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: Where Sue lives\n\nWhere Sue lives is the dependent clause in the sentence ‘We don't know where Sue lives.’  \nClauses can be independent or dependent.\n\nAn INDEPENDENT CLAUSE\n• contains the main subject and verb.\n• is the main clause of the sentence.\n• may be a statement or a question.\n• can stand alone\n\nA DEPENDENT CLAUSE\n• is not a complete sentence.\n• cannot stand alone.\n• must be connected to a main clause.\n\nWe don’t know where Sue lives is a complete sentence. It has\n• a main subject (We).\n• a main verb (know).\n• a dependent clause (where Sue lives).\n\nThe dependent clause - where Sue lives - is also a noun clause. It is the object of the verb know and\nfunctions like a noun in the sentence.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
+              "value": "Answer: Where Sue lives\n\nWhere Sue lives is the dependent clause in the sentence ‘We don't know where Sue lives.’  \nClauses can be independent or dependent.\n\nA DEPENDENT CLAUSE\n• is not a complete sentence.\n• cannot stand alone.\n• must be connected to a main clause.\n\nSource: Understanding and Using English Grammar 5th Edition by B. Azar and S. Hagen"
             },
             {
               "folded": true,
@@ -9953,7 +10177,7 @@
           "content": {
             "text": "answer 3",
             "opacity": 255,
-            "fontSize": 17,
+            "fontSize": 19,
             "visible": true,
             "color": "255;255;255",
             "fontFamily": "Arial",
@@ -9972,7 +10196,7 @@
           "content": {
             "text": "answer 3",
             "opacity": 255,
-            "fontSize": 17,
+            "fontSize": 19,
             "visible": true,
             "color": "255;255;255",
             "fontFamily": "Arial",
@@ -9991,7 +10215,7 @@
           "content": {
             "text": "answer 3",
             "opacity": 255,
-            "fontSize": 17,
+            "fontSize": 19,
             "visible": true,
             "color": "255;255;255",
             "fontFamily": "Arial",
@@ -10010,7 +10234,7 @@
           "content": {
             "text": "answer4",
             "opacity": 255,
-            "fontSize": 17,
+            "fontSize": 19,
             "visible": true,
             "color": "255;255;255",
             "fontFamily": "Arial",
@@ -10447,7 +10671,7 @@
           "content": {
             "text": "random",
             "opacity": 255,
-            "fontSize": 19,
+            "fontSize": 21,
             "visible": true,
             "color": "0;0;0",
             "fontFamily": "Arial",
@@ -10466,7 +10690,7 @@
           "content": {
             "text": "Question",
             "opacity": 255,
-            "fontSize": 19,
+            "fontSize": 21,
             "visible": true,
             "color": "255;255;255",
             "fontFamily": "Arial",
