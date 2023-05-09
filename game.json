@@ -489,15 +489,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite21.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Square Blue Toggle_Off.png",
         "kind": "image",
         "metadata": "",
@@ -555,6 +546,15 @@
         "kind": "image",
         "metadata": "",
         "name": "GG logo Desktop5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gg desktop.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gg desktop.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -10648,6 +10648,36 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "final message",
+          "name": "f_msg",
+          "persistentUuid": "a3348db1-bf4c-44fb-bbe1-ad41af39ddd4",
+          "width": 0,
+          "x": 600,
+          "y": 739,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "final message",
+          "name": "continue_finalbtn",
+          "persistentUuid": "1d097dce-3101-4270-80ff-d7fb2ed13451",
+          "width": 0,
+          "x": 1486,
+          "y": 824,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -11492,6 +11522,53 @@
         },
         {
           "assetStoreId": "",
+          "name": "continue_finalbtn",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "BTN Enable.png",
+                      "points": [
+                        {
+                          "name": "count",
+                          "x": 229.5,
+                          "y": 19.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 229.5,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
           "name": "count",
           "tags": "",
           "type": "BitmapText::BitmapTextObject",
@@ -11547,6 +11624,53 @@
             "align": "left",
             "wordWrap": true
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "f_msg",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gg desktop.png",
+                      "points": [
+                        {
+                          "name": "btn",
+                          "x": 635.5,
+                          "y": 550
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 635.5,
+                        "y": 314
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -15012,6 +15136,16 @@
             },
             {
               "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"final message\""
+              ]
+            },
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
@@ -15077,12 +15211,20 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "Scene"
+                        "value": "ShowLayer"
                       },
                       "parameters": [
                         "",
-                        "\"main\"",
-                        "yes"
+                        "\"final message\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "HideLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"feedback\""
                       ]
                     }
                   ]
@@ -15141,6 +15283,82 @@
                 "=",
                 "ToString(GlobalVariable(count))"
               ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "f_msg",
+                "=",
+                "SceneWindowWidth()/2",
+                "=",
+                "SceneWindowHeight()/2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "continue_finalbtn",
+                "=",
+                "f_msg.PointX(\"btn\")",
+                "=",
+                "f_msg.PointY(\"btn\")"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "continue_finalbtn",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"final message\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"main\"",
+                "yes"
+              ]
             }
           ]
         }
@@ -15175,6 +15393,17 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "feedback",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 31,
+          "ambientLightColorG": 6069792,
+          "ambientLightColorR": 12410952,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "final message",
           "visibility": false,
           "cameras": [],
           "effects": []
