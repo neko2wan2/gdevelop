@@ -9609,12 +9609,12 @@
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: Both\nIn both sentences, the verb belongs agrees with its subject, box. Don't let the prepositional phrase in the second sentence fool you into thinking that ornaments is the subject. It's simply the object of the preposition of and does not affect the agreement of subject and verb.\n\nPrepositional phrases (as well as adjective clauses, appositives, and participle phrases) often come between a subject and a verb. So to make sure that a verb agrees with its subject and not with a word in the phrase or clause, mentally cross out the interrupting group of words:\n\nOne (of my sister's friends) is a pilot.\n\nSource: https://www.thoughtco.com"
+              "value": "Answer: Both\nIn both sentences, the verb belongs agrees with its subject, box. Don't let the prepositional phrase in the second sentence fool you into thinking that ornaments is the subject. It's simply the object of the preposition of and does not affect the agreement of subject and verb.\n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: Both\n\nIn both sentences, the verb agrees with its subject (people, are; man, is). Don't let the prepositional phrases fool you into thinking that explosion and unicorns are the subject. \n\nPrepositional phrases (as well as adjective clauses, appositives, and participle phrases) often come between a subject and a verb. So to make sure that a verb agrees with its subject and not with a word in the phrase or clause, mentally cross out the interrupting group of words:\n\nOne (of my sister's friends) is a pilot.\n\nSource: https://www.thoughtco.com"
+              "value": "Answer: Both\n\nIn both sentences, the verb agrees with its subject (people, are; man, is). Don't let the prepositional phrases fool you into thinking that explosion and unicorns are the subject. \n\nSource: https://www.thoughtco.com"
             },
             {
               "folded": true,
@@ -9639,12 +9639,12 @@
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: The Subject\n\nIn imperative sentences (requests, commands, instructions, warnings), the subject is usually omitted but understood to be the pronoun “you,” or the person or people being addressed. In ‘Please wait to be seated.’, the hidden subject is ‘you’.\n\nSource: The Editor’s Manual https://editorsmanual.com\n \nWhen you make a request, offer advice, issue a command, or give an instruction, you use the imperative mood. Sentences that use the imperative mood are known as imperative sentences. To put it bluntly, an imperative sentence is a sentence that tells somebody to do something.\n\nSource: Grammarly https://www.grammarly.com "
+              "value": "Answer: The Subject\n\nIn imperative sentences (requests, commands, instructions, warnings), the subject is usually omitted but understood to be the pronoun “you,” or the person or people being addressed. In ‘Please wait to be seated.’, the hidden subject is ‘you’.\n\nSource: The Editor’s Manual https://editorsmanual.com "
             },
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: Three words\n\nThis is an imperative sentence:(You) wait a minute! The subject ‘you’ is hidden and the predicate ‘wait a minute’ has three words. The predicate is the part of a sentence or clause containing a verb and stating something about the subject (e.g., went home in ‘John went home’).\n\nSource: Oxford Languages\n\nIn imperative sentences (requests, commands, instructions, warnings), the subject is usually omitted but understood to be the pronoun “you,” or the person or people being addressed. \n\nSource: The Editor’s Manual https://editorsmanual.com\n \nWhen you make a request, offer advice, issue a command, or give an instruction, you use the imperative mood. Sentences that use the imperative mood are known as imperative sentences. To put it bluntly, an imperative sentence is a sentence that tells somebody to do something.\n\nSource: Grammarly https://www.grammarly.com "
+              "value": "Answer: Three words\n\nThis is an imperative sentence:(You) wait a minute! The subject ‘you’ is hidden and the predicate ‘wait a minute’ has three words. The predicate is the part of a sentence or clause containing a verb and stating something about the subject (e.g., went home in ‘John went home’).\n\nSource: Oxford Languages"
             },
             {
               "folded": true,
@@ -9868,7 +9868,7 @@
             {
               "folded": true,
               "type": "string",
-              "value": "Answer: Because he’s funny\n\n‘Because he’s funny’ is a dependent clause. A dependent clause is a group of words that contains a subject and verb but does not express a complete thought. A dependent clause cannot be a sentence. Often a dependent clause is marked by a dependent marker word.\n\nSource: Purdue University https://owl.purdue.edu \n\nSome common dependent clause markers are: after, although, as, as if, because, before, even if, even though, if, in order to, since, though, unless, until, whatever, when, whenever, whether, and while (relative pronouns and subordinating conjunctions).\n\nSource: University of Lynchburg https://www.lynchburg.edu"
+              "value": "Answer: Because he’s funny\n\n‘Because he’s funny’ is a dependent clause. A dependent clause is a group of words that contains a subject and verb but does not express a complete thought. A dependent clause cannot be a sentence. Often a dependent clause is marked by a dependent marker word.\n\nSource: Purdue University https://owl.purdue.edu "
             },
             {
               "folded": true,
@@ -9903,6 +9903,7 @@
           ]
         },
         {
+          "folded": true,
           "name": "a_les2",
           "type": "array",
           "children": [
@@ -10004,6 +10005,7 @@
           ]
         },
         {
+          "folded": true,
           "name": "d_les1",
           "type": "array",
           "children": [
@@ -10105,6 +10107,7 @@
           ]
         },
         {
+          "folded": true,
           "name": "d_les2",
           "type": "array",
           "children": [
@@ -10206,6 +10209,7 @@
           ]
         },
         {
+          "folded": true,
           "name": "vd_les1",
           "type": "array",
           "children": [
@@ -10307,6 +10311,7 @@
           ]
         },
         {
+          "folded": true,
           "name": "vd_les2",
           "type": "array",
           "children": [
@@ -11827,6 +11832,15 @@
               "parameters": [
                 "",
                 "\"feedback\""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"final message\""
               ]
             },
             {
